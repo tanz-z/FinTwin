@@ -250,3 +250,37 @@ CREATE TABLE audit_logs (
     FOREIGN KEY (user_id)
         REFERENCES users(user_id)
 );
+
+
+
+
+CREATE TABLE risk_assessment_logs (
+    assessment_id BIGSERIAL PRIMARY KEY,
+
+    user_id BIGINT NOT NULL,
+
+    transaction_id BIGINT,
+
+    risk_score INTEGER NOT NULL
+        CHECK (risk_score BETWEEN 0 AND 100),
+
+    decision_taken VARCHAR(50) NOT NULL,
+
+    explanation_text TEXT,
+
+    input_signals JSONB,
+
+    model_version VARCHAR(50),
+
+    assessed_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP,
+
+    FOREIGN KEY (user_id)
+        REFERENCES users(user_id),
+
+    FOREIGN KEY (transaction_id)
+        REFERENCES transactions(transaction_id)
+);
+
+
+
+
