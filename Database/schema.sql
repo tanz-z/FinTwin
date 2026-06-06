@@ -13,6 +13,9 @@ CREATE TABLE users (
     city VARCHAR(100),
     state VARCHAR(100),
 
+    risk_profile VARCHAR(20),
+    customer_segment VARCHAR(20),
+
     created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP
 );
 
