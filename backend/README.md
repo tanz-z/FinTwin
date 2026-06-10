@@ -13,3 +13,6 @@ This folder consist of :
 
 
 Database : PostgreSQL
+Connection using SQLAlchemy
+
+
