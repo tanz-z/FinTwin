@@ -20,8 +20,6 @@ CREATE TABLE users (
 );
 
 
-
-
 CREATE TABLE accounts (
     account_id BIGSERIAL PRIMARY KEY,
     user_id BIGINT NOT NULL,
@@ -39,8 +37,6 @@ CREATE TABLE accounts (
     FOREIGN KEY (user_id)
         REFERENCES users(user_id)
 );
-
-
 
 
 
@@ -64,9 +60,6 @@ CREATE TABLE transactions (
 );
 
 
-
-
-
 CREATE TABLE asset_types (
     asset_type_id BIGSERIAL PRIMARY KEY,
 
@@ -80,9 +73,6 @@ CREATE TABLE asset_types (
 
     created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP
 );
-
-
-
 
 
 CREATE TABLE assets (
@@ -110,9 +100,6 @@ CREATE TABLE assets (
 );
 
 
-
-
-
 CREATE TABLE asset_history (
     history_id BIGSERIAL PRIMARY KEY,
 
@@ -126,7 +113,6 @@ CREATE TABLE asset_history (
         REFERENCES assets(asset_id)
         ON DELETE CASCADE
 );
-
 
 
 CREATE TABLE goals (
@@ -255,8 +241,6 @@ CREATE TABLE audit_logs (
 );
 
 
-
-
 CREATE TABLE risk_assessment_logs (
     assessment_id BIGSERIAL PRIMARY KEY,
 
@@ -283,7 +267,3 @@ CREATE TABLE risk_assessment_logs (
     FOREIGN KEY (transaction_id)
         REFERENCES transactions(transaction_id)
 );
-
-
-
-
