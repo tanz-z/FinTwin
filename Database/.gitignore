@@ -1,9 +1,0 @@
-.env
-users.json
-accounts.json
-transactions.json
-goals.json
-assets.json
-
-_pychahe_/
-*.pyc
