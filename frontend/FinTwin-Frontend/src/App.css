@@ -695,3 +695,18 @@ img{
   }
 
 }
+
+.hero-carousel {
+  min-height: 85vh;
+}
+
+.slide {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+
+  max-width: 1400px;
+  margin: auto;
+
+  padding: 0 6rem;
+}

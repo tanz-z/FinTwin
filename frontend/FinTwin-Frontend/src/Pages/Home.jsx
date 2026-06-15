@@ -1,11 +1,11 @@
-import Hero from "../components/Hero";
+import HeroCarousel from "../components/HeroCarousel";
 import FeaturedCarousel from "../components/FeaturedCarousel";
 
 
 function Home() {
   return (
     <>
-      <Hero />
+      <HeroCarousel />
       <FeaturedCarousel />
     </>
   );
