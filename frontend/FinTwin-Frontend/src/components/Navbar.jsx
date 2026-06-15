@@ -4,7 +4,6 @@ import {
   FaSearch,
   FaBell,
   FaRobot,
-  FaShieldAlt,
   FaUserCircle,
   FaBars,
   FaTimes
