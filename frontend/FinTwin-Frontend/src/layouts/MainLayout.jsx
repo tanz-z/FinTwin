@@ -17,8 +17,8 @@ function MainLayout() {
       <Outlet />
 
       {/* GLOBAL SECTIONS (every page) */}
-      <Stats />
       <Features />
+      <Stats />
       <Security />
       <Testimonials />
 
