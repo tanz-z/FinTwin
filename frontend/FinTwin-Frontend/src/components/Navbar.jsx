@@ -59,7 +59,7 @@ function Navbar() {
           <a href="/">Home</a>
 
           <div className="dropdown">
-            <a onClick={() => toggleMenu("banking")}>Banking ▼</a>
+            <a onClick={() => toggleMenu("banking")}>Banking</a>
             {openMenu === "banking" && (
               <div className="dropdown-menu">
                 <a>Savings</a>
@@ -70,7 +70,7 @@ function Navbar() {
           </div>
 
           <div className="dropdown">
-            <a onClick={() => toggleMenu("loans")}>Loans ▼</a>
+            <a onClick={() => toggleMenu("loans")}>Loans</a>
             {openMenu === "loans" && (
               <div className="dropdown-menu">
                 <a>Personal</a>
@@ -81,7 +81,7 @@ function Navbar() {
           </div>
 
           <div className="dropdown">
-            <a onClick={() => toggleMenu("investments")}>Investments ▼</a>
+            <a onClick={() => toggleMenu("investments")}>Investments</a>
             {openMenu === "investments" && (
               <div className="dropdown-menu">
                 <a>Mutual Funds</a>
@@ -93,10 +93,6 @@ function Navbar() {
 
           <a href="#" className="ai-link">
             <FaRobot /> AI Assistant
-          </a>
-
-          <a href="#" className="security-link">
-            <FaShieldAlt /> Security
           </a>
 
         </div>
