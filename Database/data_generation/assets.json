@@ -1,0 +1,1802 @@
+[
+    {
+        "asset_type_name": "Mutual Fund",
+        "account_reference_id": "AST195948",
+        "asset_name_custom": "Mutual Fund",
+        "current_value": 1757458.3058,
+        "currency": "INR",
+        "last_updated_at": "2025-04-29T22:42:05",
+        "customer_id": "PSB000021"
+    },
+    {
+        "asset_type_name": "Mutual Fund",
+        "account_reference_id": "AST474600",
+        "asset_name_custom": "Mutual Fund",
+        "current_value": 6410249.9809,
+        "currency": "INR",
+        "last_updated_at": "2024-06-21T19:24:11",
+        "customer_id": "PSB000004"
+    },
+    {
+        "asset_type_name": "Mutual Fund",
+        "account_reference_id": "AST834575",
+        "asset_name_custom": "Mutual Fund",
+        "current_value": 10537710.2486,
+        "currency": "INR",
+        "last_updated_at": "2026-03-27T20:06:41",
+        "customer_id": "PSB000077"
+    },
+    {
+        "asset_type_name": "Mutual Fund",
+        "account_reference_id": "AST733325",
+        "asset_name_custom": "Mutual Fund",
+        "current_value": 11791419.4656,
+        "currency": "INR",
+        "last_updated_at": "2025-08-12T04:24:27",
+        "customer_id": "PSB000087"
+    },
+    {
+        "asset_type_name": "Mutual Fund",
+        "account_reference_id": "AST634083",
+        "asset_name_custom": "Mutual Fund",
+        "current_value": 414176.0928,
+        "currency": "INR",
+        "last_updated_at": "2024-06-12T07:18:44",
+        "customer_id": "PSB000017"
+    },
+    {
+        "asset_type_name": "Mutual Fund",
+        "account_reference_id": "AST420090",
+        "asset_name_custom": "Mutual Fund",
+        "current_value": 11488723.0606,
+        "currency": "INR",
+        "last_updated_at": "2026-05-08T04:21:10",
+        "customer_id": "PSB000074"
+    },
+    {
+        "asset_type_name": "Mutual Fund",
+        "account_reference_id": "AST694066",
+        "asset_name_custom": "Mutual Fund",
+        "current_value": 523530.9762,
+        "currency": "INR",
+        "last_updated_at": "2024-08-20T12:38:03",
+        "customer_id": "PSB000058"
+    },
+    {
+        "asset_type_name": "Mutual Fund",
+        "account_reference_id": "AST642167",
+        "asset_name_custom": "Mutual Fund",
+        "current_value": 5272342.7409,
+        "currency": "INR",
+        "last_updated_at": "2025-03-26T20:54:30",
+        "customer_id": "PSB000044"
+    },
+    {
+        "asset_type_name": "Mutual Fund",
+        "account_reference_id": "AST378344",
+        "asset_name_custom": "Mutual Fund",
+        "current_value": 5266.5687,
+        "currency": "INR",
+        "last_updated_at": "2026-01-28T23:16:28",
+        "customer_id": "PSB000061"
+    },
+    {
+        "asset_type_name": "Mutual Fund",
+        "account_reference_id": "AST235478",
+        "asset_name_custom": "Mutual Fund",
+        "current_value": 68043.9936,
+        "currency": "INR",
+        "last_updated_at": "2025-12-14T14:28:16",
+        "customer_id": "PSB000043"
+    },
+    {
+        "asset_type_name": "Mutual Fund",
+        "account_reference_id": "AST301525",
+        "asset_name_custom": "Mutual Fund",
+        "current_value": 2079167.8616,
+        "currency": "INR",
+        "last_updated_at": "2025-08-05T03:56:53",
+        "customer_id": "PSB000072"
+    },
+    {
+        "asset_type_name": "Mutual Fund",
+        "account_reference_id": "AST684562",
+        "asset_name_custom": "Mutual Fund",
+        "current_value": 5726685.3176,
+        "currency": "INR",
+        "last_updated_at": "2026-02-11T03:42:01",
+        "customer_id": "PSB000048"
+    },
+    {
+        "asset_type_name": "Mutual Fund",
+        "account_reference_id": "AST218153",
+        "asset_name_custom": "Mutual Fund",
+        "current_value": 4670489.5524,
+        "currency": "INR",
+        "last_updated_at": "2024-12-29T20:30:36",
+        "customer_id": "PSB000025"
+    },
+    {
+        "asset_type_name": "Mutual Fund",
+        "account_reference_id": "AST161205",
+        "asset_name_custom": "Mutual Fund",
+        "current_value": 7914134.6747,
+        "currency": "INR",
+        "last_updated_at": "2026-05-03T07:22:06",
+        "customer_id": "PSB000048"
+    },
+    {
+        "asset_type_name": "Mutual Fund",
+        "account_reference_id": "AST870177",
+        "asset_name_custom": "Mutual Fund",
+        "current_value": 4395718.7009,
+        "currency": "INR",
+        "last_updated_at": "2024-07-19T07:10:44",
+        "customer_id": "PSB000053"
+    },
+    {
+        "asset_type_name": "Mutual Fund",
+        "account_reference_id": "AST599698",
+        "asset_name_custom": "Mutual Fund",
+        "current_value": 7780446.2279,
+        "currency": "INR",
+        "last_updated_at": "2024-08-09T05:59:35",
+        "customer_id": "PSB000003"
+    },
+    {
+        "asset_type_name": "Mutual Fund",
+        "account_reference_id": "AST517306",
+        "asset_name_custom": "Mutual Fund",
+        "current_value": 39415.6065,
+        "currency": "INR",
+        "last_updated_at": "2025-03-15T16:33:44",
+        "customer_id": "PSB000020"
+    },
+    {
+        "asset_type_name": "Real Estate",
+        "account_reference_id": "AST691841",
+        "asset_name_custom": "Real Estate",
+        "current_value": 6441535.4406,
+        "currency": "INR",
+        "last_updated_at": "2024-10-17T16:41:52",
+        "customer_id": "PSB000009"
+    },
+    {
+        "asset_type_name": "Mutual Fund",
+        "account_reference_id": "AST815922",
+        "asset_name_custom": "Mutual Fund",
+        "current_value": 255490.6842,
+        "currency": "INR",
+        "last_updated_at": "2024-11-27T05:03:28",
+        "customer_id": "PSB000022"
+    },
+    {
+        "asset_type_name": "Mutual Fund",
+        "account_reference_id": "AST743420",
+        "asset_name_custom": "Mutual Fund",
+        "current_value": 1393400.8811,
+        "currency": "INR",
+        "last_updated_at": "2025-03-18T18:45:07",
+        "customer_id": "PSB000004"
+    },
+    {
+        "asset_type_name": "Mutual Fund",
+        "account_reference_id": "AST661619",
+        "asset_name_custom": "Mutual Fund",
+        "current_value": 10164972.0846,
+        "currency": "INR",
+        "last_updated_at": "2025-08-05T10:55:48",
+        "customer_id": "PSB000074"
+    },
+    {
+        "asset_type_name": "Mutual Fund",
+        "account_reference_id": "AST611325",
+        "asset_name_custom": "Mutual Fund",
+        "current_value": 3164010.1058,
+        "currency": "INR",
+        "last_updated_at": "2026-03-20T06:07:01",
+        "customer_id": "PSB000015"
+    },
+    {
+        "asset_type_name": "Mutual Fund",
+        "account_reference_id": "AST240954",
+        "asset_name_custom": "Mutual Fund",
+        "current_value": 36670.2735,
+        "currency": "INR",
+        "last_updated_at": "2025-04-10T08:35:20",
+        "customer_id": "PSB000020"
+    },
+    {
+        "asset_type_name": "Mutual Fund",
+        "account_reference_id": "AST448618",
+        "asset_name_custom": "Mutual Fund",
+        "current_value": 2779640.8796,
+        "currency": "INR",
+        "last_updated_at": "2026-05-25T23:50:19",
+        "customer_id": "PSB000098"
+    },
+    {
+        "asset_type_name": "Mutual Fund",
+        "account_reference_id": "AST503008",
+        "asset_name_custom": "Mutual Fund",
+        "current_value": 3468781.3423,
+        "currency": "INR",
+        "last_updated_at": "2025-10-03T01:54:58",
+        "customer_id": "PSB000063"
+    },
+    {
+        "asset_type_name": "Government Bonds",
+        "account_reference_id": "AST848561",
+        "asset_name_custom": "Government Bonds",
+        "current_value": 8352195.9273,
+        "currency": "INR",
+        "last_updated_at": "2025-04-29T22:48:39",
+        "customer_id": "PSB000080"
+    },
+    {
+        "asset_type_name": "Mutual Fund",
+        "account_reference_id": "AST976834",
+        "asset_name_custom": "Mutual Fund",
+        "current_value": 8804560.5907,
+        "currency": "INR",
+        "last_updated_at": "2025-11-25T07:39:57",
+        "customer_id": "PSB000016"
+    },
+    {
+        "asset_type_name": "Mutual Fund",
+        "account_reference_id": "AST927006",
+        "asset_name_custom": "Mutual Fund",
+        "current_value": 2518817.3553,
+        "currency": "INR",
+        "last_updated_at": "2025-10-13T19:56:53",
+        "customer_id": "PSB000069"
+    },
+    {
+        "asset_type_name": "Mutual Fund",
+        "account_reference_id": "AST572784",
+        "asset_name_custom": "Mutual Fund",
+        "current_value": 1299675.4132,
+        "currency": "INR",
+        "last_updated_at": "2026-05-03T14:35:50",
+        "customer_id": "PSB000044"
+    },
+    {
+        "asset_type_name": "Mutual Fund",
+        "account_reference_id": "AST241233",
+        "asset_name_custom": "Mutual Fund",
+        "current_value": 558242.1388,
+        "currency": "INR",
+        "last_updated_at": "2024-09-20T03:33:21",
+        "customer_id": "PSB000041"
+    },
+    {
+        "asset_type_name": "Mutual Fund",
+        "account_reference_id": "AST428779",
+        "asset_name_custom": "Mutual Fund",
+        "current_value": 121721.916,
+        "currency": "INR",
+        "last_updated_at": "2025-05-08T01:34:19",
+        "customer_id": "PSB000091"
+    },
+    {
+        "asset_type_name": "Mutual Fund",
+        "account_reference_id": "AST729460",
+        "asset_name_custom": "Mutual Fund",
+        "current_value": 306844.5326,
+        "currency": "INR",
+        "last_updated_at": "2024-08-30T21:40:49",
+        "customer_id": "PSB000011"
+    },
+    {
+        "asset_type_name": "Mutual Fund",
+        "account_reference_id": "AST368660",
+        "asset_name_custom": "Mutual Fund",
+        "current_value": 3024650.3139,
+        "currency": "INR",
+        "last_updated_at": "2026-02-08T11:00:05",
+        "customer_id": "PSB000058"
+    },
+    {
+        "asset_type_name": "Mutual Fund",
+        "account_reference_id": "AST587280",
+        "asset_name_custom": "Mutual Fund",
+        "current_value": 1512965.2665,
+        "currency": "INR",
+        "last_updated_at": "2024-06-12T08:07:43",
+        "customer_id": "PSB000012"
+    },
+    {
+        "asset_type_name": "Digital Gold",
+        "account_reference_id": "AST337549",
+        "asset_name_custom": "Digital Gold",
+        "current_value": 152857.9857,
+        "currency": "INR",
+        "last_updated_at": "2026-02-05T02:37:24",
+        "customer_id": "PSB000032"
+    },
+    {
+        "asset_type_name": "Mutual Fund",
+        "account_reference_id": "AST541635",
+        "asset_name_custom": "Mutual Fund",
+        "current_value": 1966110.2813,
+        "currency": "INR",
+        "last_updated_at": "2025-05-27T14:22:18",
+        "customer_id": "PSB000059"
+    },
+    {
+        "asset_type_name": "Mutual Fund",
+        "account_reference_id": "AST171453",
+        "asset_name_custom": "Mutual Fund",
+        "current_value": 405101.0794,
+        "currency": "INR",
+        "last_updated_at": "2026-04-28T01:00:14",
+        "customer_id": "PSB000010"
+    },
+    {
+        "asset_type_name": "Mutual Fund",
+        "account_reference_id": "AST511913",
+        "asset_name_custom": "Mutual Fund",
+        "current_value": 3272182.824,
+        "currency": "INR",
+        "last_updated_at": "2024-08-22T18:30:20",
+        "customer_id": "PSB000025"
+    },
+    {
+        "asset_type_name": "Mutual Fund",
+        "account_reference_id": "AST677474",
+        "asset_name_custom": "Mutual Fund",
+        "current_value": 6719381.5483,
+        "currency": "INR",
+        "last_updated_at": "2024-10-12T17:06:54",
+        "customer_id": "PSB000074"
+    },
+    {
+        "asset_type_name": "Mutual Fund",
+        "account_reference_id": "AST199517",
+        "asset_name_custom": "Mutual Fund",
+        "current_value": 3460615.3638,
+        "currency": "INR",
+        "last_updated_at": "2025-07-08T13:35:16",
+        "customer_id": "PSB000004"
+    },
+    {
+        "asset_type_name": "Mutual Fund",
+        "account_reference_id": "AST915413",
+        "asset_name_custom": "Mutual Fund",
+        "current_value": 527318.1664,
+        "currency": "INR",
+        "last_updated_at": "2024-10-18T19:28:18",
+        "customer_id": "PSB000005"
+    },
+    {
+        "asset_type_name": "Mutual Fund",
+        "account_reference_id": "AST929492",
+        "asset_name_custom": "Mutual Fund",
+        "current_value": 12931303.7803,
+        "currency": "INR",
+        "last_updated_at": "2024-07-22T09:07:20",
+        "customer_id": "PSB000052"
+    },
+    {
+        "asset_type_name": "Mutual Fund",
+        "account_reference_id": "AST201869",
+        "asset_name_custom": "Mutual Fund",
+        "current_value": 2472136.4069,
+        "currency": "INR",
+        "last_updated_at": "2026-03-28T17:06:16",
+        "customer_id": "PSB000098"
+    },
+    {
+        "asset_type_name": "Mutual Fund",
+        "account_reference_id": "AST898115",
+        "asset_name_custom": "Mutual Fund",
+        "current_value": 4573876.6474,
+        "currency": "INR",
+        "last_updated_at": "2024-10-31T02:42:05",
+        "customer_id": "PSB000090"
+    },
+    {
+        "asset_type_name": "Mutual Fund",
+        "account_reference_id": "AST884182",
+        "asset_name_custom": "Mutual Fund",
+        "current_value": 4553003.967,
+        "currency": "INR",
+        "last_updated_at": "2025-05-31T09:48:09",
+        "customer_id": "PSB000065"
+    },
+    {
+        "asset_type_name": "Mutual Fund",
+        "account_reference_id": "AST312221",
+        "asset_name_custom": "Mutual Fund",
+        "current_value": 8003306.9939,
+        "currency": "INR",
+        "last_updated_at": "2025-04-23T08:21:44",
+        "customer_id": "PSB000071"
+    },
+    {
+        "asset_type_name": "Mutual Fund",
+        "account_reference_id": "AST420316",
+        "asset_name_custom": "Mutual Fund",
+        "current_value": 2381719.7559,
+        "currency": "INR",
+        "last_updated_at": "2026-03-14T08:58:16",
+        "customer_id": "PSB000017"
+    },
+    {
+        "asset_type_name": "Fixed Deposit",
+        "account_reference_id": "AST794290",
+        "asset_name_custom": "Fixed Deposit",
+        "current_value": 2843079.5532,
+        "currency": "INR",
+        "last_updated_at": "2024-11-29T21:39:45",
+        "customer_id": "PSB000089"
+    },
+    {
+        "asset_type_name": "Mutual Fund",
+        "account_reference_id": "AST861490",
+        "asset_name_custom": "Mutual Fund",
+        "current_value": 355798.0402,
+        "currency": "INR",
+        "last_updated_at": "2025-12-21T07:22:11",
+        "customer_id": "PSB000024"
+    },
+    {
+        "asset_type_name": "Fixed Deposit",
+        "account_reference_id": "AST568306",
+        "asset_name_custom": "Fixed Deposit",
+        "current_value": 2678271.6206,
+        "currency": "INR",
+        "last_updated_at": "2025-09-14T09:33:59",
+        "customer_id": "PSB000071"
+    },
+    {
+        "asset_type_name": "Mutual Fund",
+        "account_reference_id": "AST865046",
+        "asset_name_custom": "Mutual Fund",
+        "current_value": 3037745.2404,
+        "currency": "INR",
+        "last_updated_at": "2024-11-20T17:54:07",
+        "customer_id": "PSB000029"
+    },
+    {
+        "asset_type_name": "Nifty 50 Index Fund",
+        "account_reference_id": "AST756098",
+        "asset_name_custom": "Nifty 50 Index Fund",
+        "current_value": 1892391.1348,
+        "currency": "INR",
+        "last_updated_at": "2025-12-14T17:06:55",
+        "customer_id": "PSB000086"
+    },
+    {
+        "asset_type_name": "Mutual Fund",
+        "account_reference_id": "AST440971",
+        "asset_name_custom": "Mutual Fund",
+        "current_value": 3802938.2235,
+        "currency": "INR",
+        "last_updated_at": "2025-01-03T13:19:08",
+        "customer_id": "PSB000039"
+    },
+    {
+        "asset_type_name": "Mutual Fund",
+        "account_reference_id": "AST739837",
+        "asset_name_custom": "Mutual Fund",
+        "current_value": 560470.3705,
+        "currency": "INR",
+        "last_updated_at": "2025-03-17T14:23:56",
+        "customer_id": "PSB000003"
+    },
+    {
+        "asset_type_name": "Mutual Fund",
+        "account_reference_id": "AST865889",
+        "asset_name_custom": "Mutual Fund",
+        "current_value": 3476965.1894,
+        "currency": "INR",
+        "last_updated_at": "2024-07-10T15:08:09",
+        "customer_id": "PSB000068"
+    },
+    {
+        "asset_type_name": "Mutual Fund",
+        "account_reference_id": "AST707859",
+        "asset_name_custom": "Mutual Fund",
+        "current_value": 1173785.0326,
+        "currency": "INR",
+        "last_updated_at": "2026-04-03T03:09:57",
+        "customer_id": "PSB000033"
+    },
+    {
+        "asset_type_name": "Mutual Fund",
+        "account_reference_id": "AST398887",
+        "asset_name_custom": "Mutual Fund",
+        "current_value": 3919391.7477,
+        "currency": "INR",
+        "last_updated_at": "2025-08-13T19:24:58",
+        "customer_id": "PSB000098"
+    },
+    {
+        "asset_type_name": "Mutual Fund",
+        "account_reference_id": "AST433502",
+        "asset_name_custom": "Mutual Fund",
+        "current_value": 1342587.9213,
+        "currency": "INR",
+        "last_updated_at": "2024-11-05T07:21:33",
+        "customer_id": "PSB000094"
+    },
+    {
+        "asset_type_name": "Mutual Fund",
+        "account_reference_id": "AST678330",
+        "asset_name_custom": "Mutual Fund",
+        "current_value": 12257209.6786,
+        "currency": "INR",
+        "last_updated_at": "2024-09-13T13:52:27",
+        "customer_id": "PSB000070"
+    },
+    {
+        "asset_type_name": "Mutual Fund",
+        "account_reference_id": "AST261820",
+        "asset_name_custom": "Mutual Fund",
+        "current_value": 2806441.6278,
+        "currency": "INR",
+        "last_updated_at": "2025-04-03T05:51:33",
+        "customer_id": "PSB000025"
+    },
+    {
+        "asset_type_name": "Mutual Fund",
+        "account_reference_id": "AST173445",
+        "asset_name_custom": "Mutual Fund",
+        "current_value": 5680074.7732,
+        "currency": "INR",
+        "last_updated_at": "2025-07-13T19:37:01",
+        "customer_id": "PSB000040"
+    },
+    {
+        "asset_type_name": "Mutual Fund",
+        "account_reference_id": "AST146871",
+        "asset_name_custom": "Mutual Fund",
+        "current_value": 8611223.4606,
+        "currency": "INR",
+        "last_updated_at": "2025-05-02T06:37:31",
+        "customer_id": "PSB000074"
+    },
+    {
+        "asset_type_name": "Mutual Fund",
+        "account_reference_id": "AST483077",
+        "asset_name_custom": "Mutual Fund",
+        "current_value": 2752646.9106,
+        "currency": "INR",
+        "last_updated_at": "2025-01-12T14:23:24",
+        "customer_id": "PSB000093"
+    },
+    {
+        "asset_type_name": "Mutual Fund",
+        "account_reference_id": "AST746686",
+        "asset_name_custom": "Mutual Fund",
+        "current_value": 4255181.199,
+        "currency": "INR",
+        "last_updated_at": "2024-10-17T06:11:24",
+        "customer_id": "PSB000069"
+    },
+    {
+        "asset_type_name": "Mutual Fund",
+        "account_reference_id": "AST534112",
+        "asset_name_custom": "Mutual Fund",
+        "current_value": 4428665.8334,
+        "currency": "INR",
+        "last_updated_at": "2026-04-29T00:40:06",
+        "customer_id": "PSB000072"
+    },
+    {
+        "asset_type_name": "Mutual Fund",
+        "account_reference_id": "AST809481",
+        "asset_name_custom": "Mutual Fund",
+        "current_value": 2076390.5959,
+        "currency": "INR",
+        "last_updated_at": "2024-06-18T03:49:50",
+        "customer_id": "PSB000022"
+    },
+    {
+        "asset_type_name": "PPF",
+        "account_reference_id": "AST965081",
+        "asset_name_custom": "PPF",
+        "current_value": 2500560.2648,
+        "currency": "INR",
+        "last_updated_at": "2025-11-19T03:31:50",
+        "customer_id": "PSB000001"
+    },
+    {
+        "asset_type_name": "Mutual Fund",
+        "account_reference_id": "AST183904",
+        "asset_name_custom": "Mutual Fund",
+        "current_value": 2910075.7123,
+        "currency": "INR",
+        "last_updated_at": "2025-01-03T15:40:10",
+        "customer_id": "PSB000015"
+    },
+    {
+        "asset_type_name": "Mutual Fund",
+        "account_reference_id": "AST504348",
+        "asset_name_custom": "Mutual Fund",
+        "current_value": 2430255.465,
+        "currency": "INR",
+        "last_updated_at": "2026-02-21T21:04:29",
+        "customer_id": "PSB000017"
+    },
+    {
+        "asset_type_name": "Mutual Fund",
+        "account_reference_id": "AST760886",
+        "asset_name_custom": "Mutual Fund",
+        "current_value": 1279070.2645,
+        "currency": "INR",
+        "last_updated_at": "2026-05-19T01:07:53",
+        "customer_id": "PSB000037"
+    },
+    {
+        "asset_type_name": "PPF",
+        "account_reference_id": "AST823870",
+        "asset_name_custom": "PPF",
+        "current_value": 889392.4196,
+        "currency": "INR",
+        "last_updated_at": "2024-11-25T08:42:12",
+        "customer_id": "PSB000001"
+    },
+    {
+        "asset_type_name": "Mutual Fund",
+        "account_reference_id": "AST985302",
+        "asset_name_custom": "Mutual Fund",
+        "current_value": 12118325.0295,
+        "currency": "INR",
+        "last_updated_at": "2026-06-05T05:10:58",
+        "customer_id": "PSB000009"
+    },
+    {
+        "asset_type_name": "Fixed Deposit",
+        "account_reference_id": "AST319696",
+        "asset_name_custom": "Fixed Deposit",
+        "current_value": 1190554.3554,
+        "currency": "INR",
+        "last_updated_at": "2026-04-20T13:18:38",
+        "customer_id": "PSB000092"
+    },
+    {
+        "asset_type_name": "Mutual Fund",
+        "account_reference_id": "AST554538",
+        "asset_name_custom": "Mutual Fund",
+        "current_value": 9793632.1369,
+        "currency": "INR",
+        "last_updated_at": "2025-07-04T10:08:45",
+        "customer_id": "PSB000007"
+    },
+    {
+        "asset_type_name": "Fixed Deposit",
+        "account_reference_id": "AST256130",
+        "asset_name_custom": "Fixed Deposit",
+        "current_value": 1903414.7069,
+        "currency": "INR",
+        "last_updated_at": "2025-06-10T22:20:54",
+        "customer_id": "PSB000049"
+    },
+    {
+        "asset_type_name": "Fixed Deposit",
+        "account_reference_id": "AST638457",
+        "asset_name_custom": "Fixed Deposit",
+        "current_value": 1072271.9636,
+        "currency": "INR",
+        "last_updated_at": "2024-09-19T04:59:43",
+        "customer_id": "PSB000049"
+    },
+    {
+        "asset_type_name": "Mutual Fund",
+        "account_reference_id": "AST834323",
+        "asset_name_custom": "Mutual Fund",
+        "current_value": 1154604.8971,
+        "currency": "INR",
+        "last_updated_at": "2025-08-20T16:04:57",
+        "customer_id": "PSB000097"
+    },
+    {
+        "asset_type_name": "Mutual Fund",
+        "account_reference_id": "AST498739",
+        "asset_name_custom": "Mutual Fund",
+        "current_value": 1163192.6668,
+        "currency": "INR",
+        "last_updated_at": "2025-02-20T22:54:36",
+        "customer_id": "PSB000079"
+    },
+    {
+        "asset_type_name": "Digital Gold",
+        "account_reference_id": "AST705124",
+        "asset_name_custom": "Digital Gold",
+        "current_value": 27740.1416,
+        "currency": "INR",
+        "last_updated_at": "2025-04-18T14:42:58",
+        "customer_id": "PSB000032"
+    },
+    {
+        "asset_type_name": "Mutual Fund",
+        "account_reference_id": "AST708877",
+        "asset_name_custom": "Mutual Fund",
+        "current_value": 4296146.4725,
+        "currency": "INR",
+        "last_updated_at": "2025-11-11T17:29:13",
+        "customer_id": "PSB000031"
+    },
+    {
+        "asset_type_name": "Nifty 50 Index Fund",
+        "account_reference_id": "AST631064",
+        "asset_name_custom": "Nifty 50 Index Fund",
+        "current_value": 693540.9276,
+        "currency": "INR",
+        "last_updated_at": "2024-12-04T23:40:31",
+        "customer_id": "PSB000012"
+    },
+    {
+        "asset_type_name": "Mutual Fund",
+        "account_reference_id": "AST571408",
+        "asset_name_custom": "Mutual Fund",
+        "current_value": 4903722.6367,
+        "currency": "INR",
+        "last_updated_at": "2025-01-25T01:39:54",
+        "customer_id": "PSB000044"
+    },
+    {
+        "asset_type_name": "Mutual Fund",
+        "account_reference_id": "AST167226",
+        "asset_name_custom": "Mutual Fund",
+        "current_value": 10587065.6783,
+        "currency": "INR",
+        "last_updated_at": "2026-02-10T16:55:22",
+        "customer_id": "PSB000003"
+    },
+    {
+        "asset_type_name": "Mutual Fund",
+        "account_reference_id": "AST536318",
+        "asset_name_custom": "Mutual Fund",
+        "current_value": 1130137.9413,
+        "currency": "INR",
+        "last_updated_at": "2024-11-07T11:28:07",
+        "customer_id": "PSB000100"
+    },
+    {
+        "asset_type_name": "Mutual Fund",
+        "account_reference_id": "AST378772",
+        "asset_name_custom": "Mutual Fund",
+        "current_value": 4029259.6432,
+        "currency": "INR",
+        "last_updated_at": "2025-07-05T13:16:45",
+        "customer_id": "PSB000028"
+    },
+    {
+        "asset_type_name": "Mutual Fund",
+        "account_reference_id": "AST838370",
+        "asset_name_custom": "Mutual Fund",
+        "current_value": 12603240.7671,
+        "currency": "INR",
+        "last_updated_at": "2025-04-06T21:04:25",
+        "customer_id": "PSB000008"
+    },
+    {
+        "asset_type_name": "Mutual Fund",
+        "account_reference_id": "AST931937",
+        "asset_name_custom": "Mutual Fund",
+        "current_value": 3458211.9641,
+        "currency": "INR",
+        "last_updated_at": "2025-06-10T16:38:17",
+        "customer_id": "PSB000042"
+    },
+    {
+        "asset_type_name": "Mutual Fund",
+        "account_reference_id": "AST785274",
+        "asset_name_custom": "Mutual Fund",
+        "current_value": 5858500.5352,
+        "currency": "INR",
+        "last_updated_at": "2024-12-27T02:46:14",
+        "customer_id": "PSB000034"
+    },
+    {
+        "asset_type_name": "Mutual Fund",
+        "account_reference_id": "AST729951",
+        "asset_name_custom": "Mutual Fund",
+        "current_value": 1271767.4068,
+        "currency": "INR",
+        "last_updated_at": "2026-03-18T23:19:04",
+        "customer_id": "PSB000037"
+    },
+    {
+        "asset_type_name": "Mutual Fund",
+        "account_reference_id": "AST789536",
+        "asset_name_custom": "Mutual Fund",
+        "current_value": 4075136.9683,
+        "currency": "INR",
+        "last_updated_at": "2025-10-25T09:23:29",
+        "customer_id": "PSB000069"
+    },
+    {
+        "asset_type_name": "Mutual Fund",
+        "account_reference_id": "AST785672",
+        "asset_name_custom": "Mutual Fund",
+        "current_value": 3626066.2457,
+        "currency": "INR",
+        "last_updated_at": "2025-09-02T17:48:33",
+        "customer_id": "PSB000082"
+    },
+    {
+        "asset_type_name": "Mutual Fund",
+        "account_reference_id": "AST962477",
+        "asset_name_custom": "Mutual Fund",
+        "current_value": 2450378.3628,
+        "currency": "INR",
+        "last_updated_at": "2026-02-20T09:04:31",
+        "customer_id": "PSB000046"
+    },
+    {
+        "asset_type_name": "Mutual Fund",
+        "account_reference_id": "AST243888",
+        "asset_name_custom": "Mutual Fund",
+        "current_value": 5523533.0606,
+        "currency": "INR",
+        "last_updated_at": "2025-04-12T11:31:11",
+        "customer_id": "PSB000088"
+    },
+    {
+        "asset_type_name": "Mutual Fund",
+        "account_reference_id": "AST322542",
+        "asset_name_custom": "Mutual Fund",
+        "current_value": 475916.6743,
+        "currency": "INR",
+        "last_updated_at": "2024-10-10T11:19:47",
+        "customer_id": "PSB000076"
+    },
+    {
+        "asset_type_name": "Mutual Fund",
+        "account_reference_id": "AST436294",
+        "asset_name_custom": "Mutual Fund",
+        "current_value": 3374185.2529,
+        "currency": "INR",
+        "last_updated_at": "2024-06-20T09:03:39",
+        "customer_id": "PSB000066"
+    },
+    {
+        "asset_type_name": "Government Bonds",
+        "account_reference_id": "AST253169",
+        "asset_name_custom": "Government Bonds",
+        "current_value": 36987889.5116,
+        "currency": "INR",
+        "last_updated_at": "2025-08-26T05:02:53",
+        "customer_id": "PSB000009"
+    },
+    {
+        "asset_type_name": "Mutual Fund",
+        "account_reference_id": "AST703942",
+        "asset_name_custom": "Mutual Fund",
+        "current_value": 2134821.0068,
+        "currency": "INR",
+        "last_updated_at": "2024-10-17T02:06:17",
+        "customer_id": "PSB000004"
+    },
+    {
+        "asset_type_name": "Mutual Fund",
+        "account_reference_id": "AST973834",
+        "asset_name_custom": "Mutual Fund",
+        "current_value": 3733968.2685,
+        "currency": "INR",
+        "last_updated_at": "2025-11-08T21:43:49",
+        "customer_id": "PSB000035"
+    },
+    {
+        "asset_type_name": "Mutual Fund",
+        "account_reference_id": "AST844705",
+        "asset_name_custom": "Mutual Fund",
+        "current_value": 2451016.0408,
+        "currency": "INR",
+        "last_updated_at": "2024-06-08T16:39:33",
+        "customer_id": "PSB000084"
+    },
+    {
+        "asset_type_name": "PPF",
+        "account_reference_id": "AST575795",
+        "asset_name_custom": "PPF",
+        "current_value": 1755387.8128,
+        "currency": "INR",
+        "last_updated_at": "2025-04-03T02:55:00",
+        "customer_id": "PSB000078"
+    },
+    {
+        "asset_type_name": "Mutual Fund",
+        "account_reference_id": "AST280295",
+        "asset_name_custom": "Mutual Fund",
+        "current_value": 364849.424,
+        "currency": "INR",
+        "last_updated_at": "2025-02-05T19:03:36",
+        "customer_id": "PSB000099"
+    },
+    {
+        "asset_type_name": "Mutual Fund",
+        "account_reference_id": "AST878797",
+        "asset_name_custom": "Mutual Fund",
+        "current_value": 1942094.3698,
+        "currency": "INR",
+        "last_updated_at": "2026-05-21T20:02:50",
+        "customer_id": "PSB000042"
+    },
+    {
+        "asset_type_name": "PPF",
+        "account_reference_id": "AST156362",
+        "asset_name_custom": "PPF",
+        "current_value": 2805894.4036,
+        "currency": "INR",
+        "last_updated_at": "2025-07-26T09:14:35",
+        "customer_id": "PSB000056"
+    },
+    {
+        "asset_type_name": "Mutual Fund",
+        "account_reference_id": "AST387804",
+        "asset_name_custom": "Mutual Fund",
+        "current_value": 10425009.019,
+        "currency": "INR",
+        "last_updated_at": "2025-10-01T05:56:54",
+        "customer_id": "PSB000074"
+    },
+    {
+        "asset_type_name": "Mutual Fund",
+        "account_reference_id": "AST304500",
+        "asset_name_custom": "Mutual Fund",
+        "current_value": 6518926.1944,
+        "currency": "INR",
+        "last_updated_at": "2024-08-10T07:08:05",
+        "customer_id": "PSB000010"
+    },
+    {
+        "asset_type_name": "Mutual Fund",
+        "account_reference_id": "AST120918",
+        "asset_name_custom": "Mutual Fund",
+        "current_value": 2055657.9803,
+        "currency": "INR",
+        "last_updated_at": "2025-11-16T12:46:37",
+        "customer_id": "PSB000063"
+    },
+    {
+        "asset_type_name": "Mutual Fund",
+        "account_reference_id": "AST635302",
+        "asset_name_custom": "Mutual Fund",
+        "current_value": 840484.05,
+        "currency": "INR",
+        "last_updated_at": "2026-02-23T09:57:23",
+        "customer_id": "PSB000030"
+    },
+    {
+        "asset_type_name": "Mutual Fund",
+        "account_reference_id": "AST444123",
+        "asset_name_custom": "Mutual Fund",
+        "current_value": 1838093.9771,
+        "currency": "INR",
+        "last_updated_at": "2025-09-24T18:17:04",
+        "customer_id": "PSB000021"
+    },
+    {
+        "asset_type_name": "Mutual Fund",
+        "account_reference_id": "AST193121",
+        "asset_name_custom": "Mutual Fund",
+        "current_value": 3006055.4737,
+        "currency": "INR",
+        "last_updated_at": "2024-06-26T17:16:24",
+        "customer_id": "PSB000076"
+    },
+    {
+        "asset_type_name": "Mutual Fund",
+        "account_reference_id": "AST205662",
+        "asset_name_custom": "Mutual Fund",
+        "current_value": 311135.3747,
+        "currency": "INR",
+        "last_updated_at": "2025-06-29T00:21:07",
+        "customer_id": "PSB000027"
+    },
+    {
+        "asset_type_name": "Mutual Fund",
+        "account_reference_id": "AST320467",
+        "asset_name_custom": "Mutual Fund",
+        "current_value": 8183135.2518,
+        "currency": "INR",
+        "last_updated_at": "2024-06-29T17:48:57",
+        "customer_id": "PSB000098"
+    },
+    {
+        "asset_type_name": "Mutual Fund",
+        "account_reference_id": "AST643475",
+        "asset_name_custom": "Mutual Fund",
+        "current_value": 1166181.721,
+        "currency": "INR",
+        "last_updated_at": "2024-12-17T15:40:03",
+        "customer_id": "PSB000078"
+    },
+    {
+        "asset_type_name": "Mutual Fund",
+        "account_reference_id": "AST795524",
+        "asset_name_custom": "Mutual Fund",
+        "current_value": 22928628.3942,
+        "currency": "INR",
+        "last_updated_at": "2025-08-31T22:38:39",
+        "customer_id": "PSB000009"
+    },
+    {
+        "asset_type_name": "Mutual Fund",
+        "account_reference_id": "AST728528",
+        "asset_name_custom": "Mutual Fund",
+        "current_value": 5023901.9415,
+        "currency": "INR",
+        "last_updated_at": "2024-08-04T01:33:33",
+        "customer_id": "PSB000028"
+    },
+    {
+        "asset_type_name": "Mutual Fund",
+        "account_reference_id": "AST945014",
+        "asset_name_custom": "Mutual Fund",
+        "current_value": 557658.7798,
+        "currency": "INR",
+        "last_updated_at": "2025-02-12T08:40:12",
+        "customer_id": "PSB000090"
+    },
+    {
+        "asset_type_name": "Mutual Fund",
+        "account_reference_id": "AST607275",
+        "asset_name_custom": "Mutual Fund",
+        "current_value": 3558157.3924,
+        "currency": "INR",
+        "last_updated_at": "2025-12-22T21:43:54",
+        "customer_id": "PSB000038"
+    },
+    {
+        "asset_type_name": "Mutual Fund",
+        "account_reference_id": "AST874955",
+        "asset_name_custom": "Mutual Fund",
+        "current_value": 551626.6447,
+        "currency": "INR",
+        "last_updated_at": "2024-10-12T16:30:43",
+        "customer_id": "PSB000045"
+    },
+    {
+        "asset_type_name": "Mutual Fund",
+        "account_reference_id": "AST378374",
+        "asset_name_custom": "Mutual Fund",
+        "current_value": 278491.5793,
+        "currency": "INR",
+        "last_updated_at": "2024-07-29T01:01:59",
+        "customer_id": "PSB000041"
+    },
+    {
+        "asset_type_name": "Mutual Fund",
+        "account_reference_id": "AST280163",
+        "asset_name_custom": "Mutual Fund",
+        "current_value": 524823.6119,
+        "currency": "INR",
+        "last_updated_at": "2025-11-10T15:33:21",
+        "customer_id": "PSB000041"
+    },
+    {
+        "asset_type_name": "Mutual Fund",
+        "account_reference_id": "AST222256",
+        "asset_name_custom": "Mutual Fund",
+        "current_value": 4616302.9747,
+        "currency": "INR",
+        "last_updated_at": "2026-04-08T05:39:26",
+        "customer_id": "PSB000090"
+    },
+    {
+        "asset_type_name": "Mutual Fund",
+        "account_reference_id": "AST912788",
+        "asset_name_custom": "Mutual Fund",
+        "current_value": 1506443.948,
+        "currency": "INR",
+        "last_updated_at": "2025-01-29T07:31:03",
+        "customer_id": "PSB000035"
+    },
+    {
+        "asset_type_name": "Real Estate",
+        "account_reference_id": "AST514431",
+        "asset_name_custom": "Real Estate",
+        "current_value": 8191214.7436,
+        "currency": "INR",
+        "last_updated_at": "2024-12-03T17:50:06",
+        "customer_id": "PSB000080"
+    },
+    {
+        "asset_type_name": "Digital Gold",
+        "account_reference_id": "AST451034",
+        "asset_name_custom": "Digital Gold",
+        "current_value": 7191778.2378,
+        "currency": "INR",
+        "last_updated_at": "2026-05-09T09:15:23",
+        "customer_id": "PSB000071"
+    },
+    {
+        "asset_type_name": "Mutual Fund",
+        "account_reference_id": "AST375123",
+        "asset_name_custom": "Mutual Fund",
+        "current_value": 5425058.2484,
+        "currency": "INR",
+        "last_updated_at": "2024-12-18T22:27:10",
+        "customer_id": "PSB000022"
+    },
+    {
+        "asset_type_name": "Mutual Fund",
+        "account_reference_id": "AST485925",
+        "asset_name_custom": "Mutual Fund",
+        "current_value": 2111908.5097,
+        "currency": "INR",
+        "last_updated_at": "2026-01-17T15:49:25",
+        "customer_id": "PSB000059"
+    },
+    {
+        "asset_type_name": "Mutual Fund",
+        "account_reference_id": "AST695836",
+        "asset_name_custom": "Mutual Fund",
+        "current_value": 3320854.5744,
+        "currency": "INR",
+        "last_updated_at": "2024-07-26T00:52:15",
+        "customer_id": "PSB000096"
+    },
+    {
+        "asset_type_name": "PPF",
+        "account_reference_id": "AST161254",
+        "asset_name_custom": "PPF",
+        "current_value": 3112138.2561,
+        "currency": "INR",
+        "last_updated_at": "2025-12-31T01:12:09",
+        "customer_id": "PSB000049"
+    },
+    {
+        "asset_type_name": "Mutual Fund",
+        "account_reference_id": "AST556069",
+        "asset_name_custom": "Mutual Fund",
+        "current_value": 62053.3613,
+        "currency": "INR",
+        "last_updated_at": "2025-11-27T05:41:22",
+        "customer_id": "PSB000061"
+    },
+    {
+        "asset_type_name": "Mutual Fund",
+        "account_reference_id": "AST209579",
+        "asset_name_custom": "Mutual Fund",
+        "current_value": 2012069.9372,
+        "currency": "INR",
+        "last_updated_at": "2024-09-05T13:45:57",
+        "customer_id": "PSB000067"
+    },
+    {
+        "asset_type_name": "Mutual Fund",
+        "account_reference_id": "AST878444",
+        "asset_name_custom": "Mutual Fund",
+        "current_value": 3103447.1394,
+        "currency": "INR",
+        "last_updated_at": "2025-11-06T00:01:00",
+        "customer_id": "PSB000084"
+    },
+    {
+        "asset_type_name": "Mutual Fund",
+        "account_reference_id": "AST928906",
+        "asset_name_custom": "Mutual Fund",
+        "current_value": 3748433.4865,
+        "currency": "INR",
+        "last_updated_at": "2026-01-18T02:36:59",
+        "customer_id": "PSB000044"
+    },
+    {
+        "asset_type_name": "Mutual Fund",
+        "account_reference_id": "AST845873",
+        "asset_name_custom": "Mutual Fund",
+        "current_value": 334321.3621,
+        "currency": "INR",
+        "last_updated_at": "2025-01-25T01:05:11",
+        "customer_id": "PSB000018"
+    },
+    {
+        "asset_type_name": "Digital Gold",
+        "account_reference_id": "AST301886",
+        "asset_name_custom": "Digital Gold",
+        "current_value": 4309465.0027,
+        "currency": "INR",
+        "last_updated_at": "2025-11-19T15:13:12",
+        "customer_id": "PSB000047"
+    },
+    {
+        "asset_type_name": "Fixed Deposit",
+        "account_reference_id": "AST962616",
+        "asset_name_custom": "Fixed Deposit",
+        "current_value": 675859.2872,
+        "currency": "INR",
+        "last_updated_at": "2025-06-19T13:12:32",
+        "customer_id": "PSB000002"
+    },
+    {
+        "asset_type_name": "Mutual Fund",
+        "account_reference_id": "AST763021",
+        "asset_name_custom": "Mutual Fund",
+        "current_value": 1036521.2345,
+        "currency": "INR",
+        "last_updated_at": "2025-03-02T16:49:13",
+        "customer_id": "PSB000072"
+    },
+    {
+        "asset_type_name": "Mutual Fund",
+        "account_reference_id": "AST701551",
+        "asset_name_custom": "Mutual Fund",
+        "current_value": 457602.6186,
+        "currency": "INR",
+        "last_updated_at": "2025-09-23T17:55:56",
+        "customer_id": "PSB000097"
+    },
+    {
+        "asset_type_name": "Mutual Fund",
+        "account_reference_id": "AST829241",
+        "asset_name_custom": "Mutual Fund",
+        "current_value": 1609113.0879,
+        "currency": "INR",
+        "last_updated_at": "2024-08-27T16:09:32",
+        "customer_id": "PSB000015"
+    },
+    {
+        "asset_type_name": "Mutual Fund",
+        "account_reference_id": "AST493218",
+        "asset_name_custom": "Mutual Fund",
+        "current_value": 2723926.8708,
+        "currency": "INR",
+        "last_updated_at": "2024-09-04T05:44:46",
+        "customer_id": "PSB000018"
+    },
+    {
+        "asset_type_name": "Mutual Fund",
+        "account_reference_id": "AST109567",
+        "asset_name_custom": "Mutual Fund",
+        "current_value": 3142791.949,
+        "currency": "INR",
+        "last_updated_at": "2024-10-12T18:57:01",
+        "customer_id": "PSB000034"
+    },
+    {
+        "asset_type_name": "Mutual Fund",
+        "account_reference_id": "AST725068",
+        "asset_name_custom": "Mutual Fund",
+        "current_value": 1473013.4165,
+        "currency": "INR",
+        "last_updated_at": "2025-12-20T21:03:07",
+        "customer_id": "PSB000033"
+    },
+    {
+        "asset_type_name": "Mutual Fund",
+        "account_reference_id": "AST445291",
+        "asset_name_custom": "Mutual Fund",
+        "current_value": 2176883.8234,
+        "currency": "INR",
+        "last_updated_at": "2025-09-05T10:43:47",
+        "customer_id": "PSB000006"
+    },
+    {
+        "asset_type_name": "Mutual Fund",
+        "account_reference_id": "AST804637",
+        "asset_name_custom": "Mutual Fund",
+        "current_value": 465950.8916,
+        "currency": "INR",
+        "last_updated_at": "2025-09-12T18:24:13",
+        "customer_id": "PSB000058"
+    },
+    {
+        "asset_type_name": "Mutual Fund",
+        "account_reference_id": "AST293515",
+        "asset_name_custom": "Mutual Fund",
+        "current_value": 1610844.7865,
+        "currency": "INR",
+        "last_updated_at": "2025-09-18T15:23:46",
+        "customer_id": "PSB000097"
+    },
+    {
+        "asset_type_name": "Mutual Fund",
+        "account_reference_id": "AST714794",
+        "asset_name_custom": "Mutual Fund",
+        "current_value": 6898213.5524,
+        "currency": "INR",
+        "last_updated_at": "2025-06-23T13:03:38",
+        "customer_id": "PSB000048"
+    },
+    {
+        "asset_type_name": "Mutual Fund",
+        "account_reference_id": "AST299220",
+        "asset_name_custom": "Mutual Fund",
+        "current_value": 1322418.4825,
+        "currency": "INR",
+        "last_updated_at": "2024-10-11T05:19:12",
+        "customer_id": "PSB000093"
+    },
+    {
+        "asset_type_name": "Government Bonds",
+        "account_reference_id": "AST750832",
+        "asset_name_custom": "Government Bonds",
+        "current_value": 844757.5645,
+        "currency": "INR",
+        "last_updated_at": "2024-07-12T10:39:29",
+        "customer_id": "PSB000062"
+    },
+    {
+        "asset_type_name": "Mutual Fund",
+        "account_reference_id": "AST900754",
+        "asset_name_custom": "Mutual Fund",
+        "current_value": 1258358.68,
+        "currency": "INR",
+        "last_updated_at": "2024-12-06T11:12:53",
+        "customer_id": "PSB000074"
+    },
+    {
+        "asset_type_name": "Mutual Fund",
+        "account_reference_id": "AST791155",
+        "asset_name_custom": "Mutual Fund",
+        "current_value": 4910613.1888,
+        "currency": "INR",
+        "last_updated_at": "2025-09-26T08:20:12",
+        "customer_id": "PSB000090"
+    },
+    {
+        "asset_type_name": "Mutual Fund",
+        "account_reference_id": "AST630381",
+        "asset_name_custom": "Mutual Fund",
+        "current_value": 2270756.539,
+        "currency": "INR",
+        "last_updated_at": "2024-11-09T01:29:10",
+        "customer_id": "PSB000045"
+    },
+    {
+        "asset_type_name": "Mutual Fund",
+        "account_reference_id": "AST986818",
+        "asset_name_custom": "Mutual Fund",
+        "current_value": 469726.3642,
+        "currency": "INR",
+        "last_updated_at": "2025-08-02T01:40:45",
+        "customer_id": "PSB000048"
+    },
+    {
+        "asset_type_name": "Mutual Fund",
+        "account_reference_id": "AST653911",
+        "asset_name_custom": "Mutual Fund",
+        "current_value": 233186.106,
+        "currency": "INR",
+        "last_updated_at": "2025-08-26T02:57:53",
+        "customer_id": "PSB000065"
+    },
+    {
+        "asset_type_name": "Mutual Fund",
+        "account_reference_id": "AST721789",
+        "asset_name_custom": "Mutual Fund",
+        "current_value": 906432.0408,
+        "currency": "INR",
+        "last_updated_at": "2024-10-22T15:37:40",
+        "customer_id": "PSB000013"
+    },
+    {
+        "asset_type_name": "Mutual Fund",
+        "account_reference_id": "AST187714",
+        "asset_name_custom": "Mutual Fund",
+        "current_value": 3406994.6337,
+        "currency": "INR",
+        "last_updated_at": "2025-02-16T20:51:52",
+        "customer_id": "PSB000054"
+    },
+    {
+        "asset_type_name": "PPF",
+        "account_reference_id": "AST672380",
+        "asset_name_custom": "PPF",
+        "current_value": 154346.8456,
+        "currency": "INR",
+        "last_updated_at": "2026-01-03T20:11:25",
+        "customer_id": "PSB000056"
+    },
+    {
+        "asset_type_name": "Real Estate",
+        "account_reference_id": "AST856135",
+        "asset_name_custom": "Real Estate",
+        "current_value": 24437078.8636,
+        "currency": "INR",
+        "last_updated_at": "2024-12-27T13:13:25",
+        "customer_id": "PSB000009"
+    },
+    {
+        "asset_type_name": "Mutual Fund",
+        "account_reference_id": "AST823526",
+        "asset_name_custom": "Mutual Fund",
+        "current_value": 4639422.2778,
+        "currency": "INR",
+        "last_updated_at": "2024-12-04T15:49:37",
+        "customer_id": "PSB000052"
+    },
+    {
+        "asset_type_name": "Fixed Deposit",
+        "account_reference_id": "AST562786",
+        "asset_name_custom": "Fixed Deposit",
+        "current_value": 2575082.1255,
+        "currency": "INR",
+        "last_updated_at": "2025-08-26T03:01:07",
+        "customer_id": "PSB000049"
+    },
+    {
+        "asset_type_name": "Mutual Fund",
+        "account_reference_id": "AST784712",
+        "asset_name_custom": "Mutual Fund",
+        "current_value": 3557485.6478,
+        "currency": "INR",
+        "last_updated_at": "2025-11-17T15:55:56",
+        "customer_id": "PSB000019"
+    },
+    {
+        "asset_type_name": "PPF",
+        "account_reference_id": "AST505738",
+        "asset_name_custom": "PPF",
+        "current_value": 3177852.0433,
+        "currency": "INR",
+        "last_updated_at": "2025-11-20T14:31:01",
+        "customer_id": "PSB000049"
+    },
+    {
+        "asset_type_name": "Mutual Fund",
+        "account_reference_id": "AST844141",
+        "asset_name_custom": "Mutual Fund",
+        "current_value": 13353861.0983,
+        "currency": "INR",
+        "last_updated_at": "2025-07-25T11:31:57",
+        "customer_id": "PSB000066"
+    },
+    {
+        "asset_type_name": "Mutual Fund",
+        "account_reference_id": "AST430302",
+        "asset_name_custom": "Mutual Fund",
+        "current_value": 7194554.8197,
+        "currency": "INR",
+        "last_updated_at": "2025-02-22T07:56:37",
+        "customer_id": "PSB000060"
+    },
+    {
+        "asset_type_name": "Mutual Fund",
+        "account_reference_id": "AST574036",
+        "asset_name_custom": "Mutual Fund",
+        "current_value": 1136216.6404,
+        "currency": "INR",
+        "last_updated_at": "2024-11-18T04:34:31",
+        "customer_id": "PSB000054"
+    },
+    {
+        "asset_type_name": "Mutual Fund",
+        "account_reference_id": "AST206254",
+        "asset_name_custom": "Mutual Fund",
+        "current_value": 81117.1832,
+        "currency": "INR",
+        "last_updated_at": "2024-08-14T08:54:41",
+        "customer_id": "PSB000091"
+    },
+    {
+        "asset_type_name": "Mutual Fund",
+        "account_reference_id": "AST783419",
+        "asset_name_custom": "Mutual Fund",
+        "current_value": 4252937.942,
+        "currency": "INR",
+        "last_updated_at": "2025-09-09T02:34:19",
+        "customer_id": "PSB000068"
+    },
+    {
+        "asset_type_name": "Mutual Fund",
+        "account_reference_id": "AST885302",
+        "asset_name_custom": "Mutual Fund",
+        "current_value": 1635053.2556,
+        "currency": "INR",
+        "last_updated_at": "2026-05-12T17:58:57",
+        "customer_id": "PSB000016"
+    },
+    {
+        "asset_type_name": "Mutual Fund",
+        "account_reference_id": "AST647863",
+        "asset_name_custom": "Mutual Fund",
+        "current_value": 383841.4687,
+        "currency": "INR",
+        "last_updated_at": "2024-08-26T03:36:20",
+        "customer_id": "PSB000054"
+    },
+    {
+        "asset_type_name": "Fixed Deposit",
+        "account_reference_id": "AST870506",
+        "asset_name_custom": "Fixed Deposit",
+        "current_value": 671234.5385,
+        "currency": "INR",
+        "last_updated_at": "2025-06-19T13:28:14",
+        "customer_id": "PSB000092"
+    },
+    {
+        "asset_type_name": "Nifty 50 Index Fund",
+        "account_reference_id": "AST400995",
+        "asset_name_custom": "Nifty 50 Index Fund",
+        "current_value": 8196517.6954,
+        "currency": "INR",
+        "last_updated_at": "2026-01-30T02:30:20",
+        "customer_id": "PSB000086"
+    },
+    {
+        "asset_type_name": "Mutual Fund",
+        "account_reference_id": "AST354386",
+        "asset_name_custom": "Mutual Fund",
+        "current_value": 2480602.7135,
+        "currency": "INR",
+        "last_updated_at": "2025-03-10T10:57:33",
+        "customer_id": "PSB000037"
+    },
+    {
+        "asset_type_name": "Mutual Fund",
+        "account_reference_id": "AST273749",
+        "asset_name_custom": "Mutual Fund",
+        "current_value": 486717.7804,
+        "currency": "INR",
+        "last_updated_at": "2025-06-06T22:01:56",
+        "customer_id": "PSB000005"
+    },
+    {
+        "asset_type_name": "Mutual Fund",
+        "account_reference_id": "AST568236",
+        "asset_name_custom": "Mutual Fund",
+        "current_value": 7327412.4268,
+        "currency": "INR",
+        "last_updated_at": "2025-03-20T07:18:09",
+        "customer_id": "PSB000034"
+    },
+    {
+        "asset_type_name": "Mutual Fund",
+        "account_reference_id": "AST629480",
+        "asset_name_custom": "Mutual Fund",
+        "current_value": 3659255.1121,
+        "currency": "INR",
+        "last_updated_at": "2025-11-02T02:35:12",
+        "customer_id": "PSB000007"
+    },
+    {
+        "asset_type_name": "Mutual Fund",
+        "account_reference_id": "AST361615",
+        "asset_name_custom": "Mutual Fund",
+        "current_value": 3939117.4283,
+        "currency": "INR",
+        "last_updated_at": "2025-02-24T12:06:37",
+        "customer_id": "PSB000030"
+    },
+    {
+        "asset_type_name": "Mutual Fund",
+        "account_reference_id": "AST849826",
+        "asset_name_custom": "Mutual Fund",
+        "current_value": 9425437.5783,
+        "currency": "INR",
+        "last_updated_at": "2025-07-27T09:42:09",
+        "customer_id": "PSB000007"
+    },
+    {
+        "asset_type_name": "Mutual Fund",
+        "account_reference_id": "AST529138",
+        "asset_name_custom": "Mutual Fund",
+        "current_value": 2633736.3169,
+        "currency": "INR",
+        "last_updated_at": "2024-10-05T17:17:17",
+        "customer_id": "PSB000046"
+    },
+    {
+        "asset_type_name": "Mutual Fund",
+        "account_reference_id": "AST578328",
+        "asset_name_custom": "Mutual Fund",
+        "current_value": 4427184.6288,
+        "currency": "INR",
+        "last_updated_at": "2025-09-08T13:56:37",
+        "customer_id": "PSB000052"
+    },
+    {
+        "asset_type_name": "Mutual Fund",
+        "account_reference_id": "AST407310",
+        "asset_name_custom": "Mutual Fund",
+        "current_value": 11750864.409,
+        "currency": "INR",
+        "last_updated_at": "2026-05-25T08:16:49",
+        "customer_id": "PSB000074"
+    },
+    {
+        "asset_type_name": "Mutual Fund",
+        "account_reference_id": "AST439274",
+        "asset_name_custom": "Mutual Fund",
+        "current_value": 3241025.2494,
+        "currency": "INR",
+        "last_updated_at": "2024-10-24T07:21:48",
+        "customer_id": "PSB000094"
+    },
+    {
+        "asset_type_name": "Mutual Fund",
+        "account_reference_id": "AST652114",
+        "asset_name_custom": "Mutual Fund",
+        "current_value": 3113437.3686,
+        "currency": "INR",
+        "last_updated_at": "2025-08-12T11:05:50",
+        "customer_id": "PSB000015"
+    },
+    {
+        "asset_type_name": "Mutual Fund",
+        "account_reference_id": "AST276605",
+        "asset_name_custom": "Mutual Fund",
+        "current_value": 2056473.7656,
+        "currency": "INR",
+        "last_updated_at": "2026-04-26T17:33:30",
+        "customer_id": "PSB000084"
+    },
+    {
+        "asset_type_name": "Mutual Fund",
+        "account_reference_id": "AST372583",
+        "asset_name_custom": "Mutual Fund",
+        "current_value": 1608515.4367,
+        "currency": "INR",
+        "last_updated_at": "2024-09-10T15:21:25",
+        "customer_id": "PSB000082"
+    },
+    {
+        "asset_type_name": "Mutual Fund",
+        "account_reference_id": "AST489180",
+        "asset_name_custom": "Mutual Fund",
+        "current_value": 2924243.8673,
+        "currency": "INR",
+        "last_updated_at": "2025-11-29T07:29:48",
+        "customer_id": "PSB000008"
+    },
+    {
+        "asset_type_name": "Fixed Deposit",
+        "account_reference_id": "AST230438",
+        "asset_name_custom": "Fixed Deposit",
+        "current_value": 1651268.7936,
+        "currency": "INR",
+        "last_updated_at": "2024-12-21T02:12:03",
+        "customer_id": "PSB000089"
+    },
+    {
+        "asset_type_name": "Mutual Fund",
+        "account_reference_id": "AST716510",
+        "asset_name_custom": "Mutual Fund",
+        "current_value": 2523833.4716,
+        "currency": "INR",
+        "last_updated_at": "2024-07-29T06:49:47",
+        "customer_id": "PSB000036"
+    },
+    {
+        "asset_type_name": "Mutual Fund",
+        "account_reference_id": "AST381181",
+        "asset_name_custom": "Mutual Fund",
+        "current_value": 2151621.7756,
+        "currency": "INR",
+        "last_updated_at": "2025-03-12T18:07:41",
+        "customer_id": "PSB000054"
+    },
+    {
+        "asset_type_name": "Digital Gold",
+        "account_reference_id": "AST895475",
+        "asset_name_custom": "Digital Gold",
+        "current_value": 15297820.7234,
+        "currency": "INR",
+        "last_updated_at": "2025-06-09T12:47:20",
+        "customer_id": "PSB000047"
+    },
+    {
+        "asset_type_name": "Mutual Fund",
+        "account_reference_id": "AST507080",
+        "asset_name_custom": "Mutual Fund",
+        "current_value": 8402121.4553,
+        "currency": "INR",
+        "last_updated_at": "2025-09-10T22:15:13",
+        "customer_id": "PSB000047"
+    },
+    {
+        "asset_type_name": "Mutual Fund",
+        "account_reference_id": "AST640939",
+        "asset_name_custom": "Mutual Fund",
+        "current_value": 3710728.3259,
+        "currency": "INR",
+        "last_updated_at": "2026-05-05T23:52:34",
+        "customer_id": "PSB000025"
+    },
+    {
+        "asset_type_name": "Mutual Fund",
+        "account_reference_id": "AST983233",
+        "asset_name_custom": "Mutual Fund",
+        "current_value": 6542599.633,
+        "currency": "INR",
+        "last_updated_at": "2026-01-18T19:44:38",
+        "customer_id": "PSB000060"
+    },
+    {
+        "asset_type_name": "Mutual Fund",
+        "account_reference_id": "AST334580",
+        "asset_name_custom": "Mutual Fund",
+        "current_value": 1194990.123,
+        "currency": "INR",
+        "last_updated_at": "2024-12-22T23:27:02",
+        "customer_id": "PSB000042"
+    },
+    {
+        "asset_type_name": "Mutual Fund",
+        "account_reference_id": "AST751131",
+        "asset_name_custom": "Mutual Fund",
+        "current_value": 1534100.623,
+        "currency": "INR",
+        "last_updated_at": "2024-12-03T15:01:14",
+        "customer_id": "PSB000013"
+    },
+    {
+        "asset_type_name": "Mutual Fund",
+        "account_reference_id": "AST693864",
+        "asset_name_custom": "Mutual Fund",
+        "current_value": 937381.9476,
+        "currency": "INR",
+        "last_updated_at": "2024-10-08T16:02:51",
+        "customer_id": "PSB000015"
+    },
+    {
+        "asset_type_name": "Mutual Fund",
+        "account_reference_id": "AST973651",
+        "asset_name_custom": "Mutual Fund",
+        "current_value": 3303622.4996,
+        "currency": "INR",
+        "last_updated_at": "2025-06-16T16:02:55",
+        "customer_id": "PSB000048"
+    },
+    {
+        "asset_type_name": "Mutual Fund",
+        "account_reference_id": "AST916446",
+        "asset_name_custom": "Mutual Fund",
+        "current_value": 6790274.4559,
+        "currency": "INR",
+        "last_updated_at": "2025-12-18T09:30:11",
+        "customer_id": "PSB000060"
+    },
+    {
+        "asset_type_name": "Mutual Fund",
+        "account_reference_id": "AST487226",
+        "asset_name_custom": "Mutual Fund",
+        "current_value": 2112266.9431,
+        "currency": "INR",
+        "last_updated_at": "2025-03-18T18:39:39",
+        "customer_id": "PSB000031"
+    },
+    {
+        "asset_type_name": "Mutual Fund",
+        "account_reference_id": "AST282755",
+        "asset_name_custom": "Mutual Fund",
+        "current_value": 4168860.6854,
+        "currency": "INR",
+        "last_updated_at": "2024-08-12T20:58:17",
+        "customer_id": "PSB000040"
+    },
+    {
+        "asset_type_name": "Mutual Fund",
+        "account_reference_id": "AST307299",
+        "asset_name_custom": "Mutual Fund",
+        "current_value": 2323691.1837,
+        "currency": "INR",
+        "last_updated_at": "2024-09-13T14:58:50",
+        "customer_id": "PSB000085"
+    },
+    {
+        "asset_type_name": "Mutual Fund",
+        "account_reference_id": "AST999836",
+        "asset_name_custom": "Mutual Fund",
+        "current_value": 7094813.7737,
+        "currency": "INR",
+        "last_updated_at": "2025-08-01T22:09:10",
+        "customer_id": "PSB000034"
+    },
+    {
+        "asset_type_name": "Mutual Fund",
+        "account_reference_id": "AST878047",
+        "asset_name_custom": "Mutual Fund",
+        "current_value": 2868303.111,
+        "currency": "INR",
+        "last_updated_at": "2026-05-31T02:00:16",
+        "customer_id": "PSB000077"
+    },
+    {
+        "asset_type_name": "PPF",
+        "account_reference_id": "AST625933",
+        "asset_name_custom": "PPF",
+        "current_value": 3545501.7914,
+        "currency": "INR",
+        "last_updated_at": "2025-08-13T13:19:33",
+        "customer_id": "PSB000092"
+    }
+]

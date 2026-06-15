@@ -1,0 +1,1602 @@
+[
+    {
+        "goal_name": "Vacation",
+        "target_amount": 7939386,
+        "current_amount": 5782462,
+        "target_date": "2039-10-23",
+        "priority": "LOW",
+        "customer_id": "PSB000086"
+    },
+    {
+        "goal_name": "Healthcare Fund",
+        "target_amount": 1460444,
+        "current_amount": 524068,
+        "target_date": "2029-10-22",
+        "priority": "LOW",
+        "customer_id": "PSB000076"
+    },
+    {
+        "goal_name": "Healthcare Fund",
+        "target_amount": 6358410,
+        "current_amount": 1224783,
+        "target_date": "2034-10-25",
+        "priority": "HIGH",
+        "customer_id": "PSB000055"
+    },
+    {
+        "goal_name": "Emergency Fund",
+        "target_amount": 1801375,
+        "current_amount": 1263630,
+        "target_date": "2030-02-03",
+        "priority": "LOW",
+        "customer_id": "PSB000005"
+    },
+    {
+        "goal_name": "Higher Education",
+        "target_amount": 5527191,
+        "current_amount": 1020026,
+        "target_date": "2027-11-22",
+        "priority": "HIGH",
+        "customer_id": "PSB000086"
+    },
+    {
+        "goal_name": "Healthcare Fund",
+        "target_amount": 10536172,
+        "current_amount": 2341197,
+        "target_date": "2030-06-11",
+        "priority": "LOW",
+        "customer_id": "PSB000008"
+    },
+    {
+        "goal_name": "Home Purchase",
+        "target_amount": 2129693,
+        "current_amount": 1118272,
+        "target_date": "2039-09-18",
+        "priority": "LOW",
+        "customer_id": "PSB000087"
+    },
+    {
+        "goal_name": "Child Education",
+        "target_amount": 24789693,
+        "current_amount": 18685061,
+        "target_date": "2034-12-29",
+        "priority": "LOW",
+        "customer_id": "PSB000009"
+    },
+    {
+        "goal_name": "Emergency Fund",
+        "target_amount": 2644191,
+        "current_amount": 326852,
+        "target_date": "2032-12-26",
+        "priority": "HIGH",
+        "customer_id": "PSB000027"
+    },
+    {
+        "goal_name": "Healthcare Fund",
+        "target_amount": 2313062,
+        "current_amount": 1098316,
+        "target_date": "2037-04-30",
+        "priority": "LOW",
+        "customer_id": "PSB000072"
+    },
+    {
+        "goal_name": "Retirement",
+        "target_amount": 2177415,
+        "current_amount": 391027,
+        "target_date": "2039-12-03",
+        "priority": "LOW",
+        "customer_id": "PSB000003"
+    },
+    {
+        "goal_name": "Vacation",
+        "target_amount": 1855980,
+        "current_amount": 1096681,
+        "target_date": "2028-06-29",
+        "priority": "MEDIUM",
+        "customer_id": "PSB000044"
+    },
+    {
+        "goal_name": "Emergency Fund",
+        "target_amount": 712237,
+        "current_amount": 493968,
+        "target_date": "2029-02-21",
+        "priority": "HIGH",
+        "customer_id": "PSB000029"
+    },
+    {
+        "goal_name": "Retirement",
+        "target_amount": 777797,
+        "current_amount": 500833,
+        "target_date": "2031-01-31",
+        "priority": "LOW",
+        "customer_id": "PSB000006"
+    },
+    {
+        "goal_name": "Retirement",
+        "target_amount": 3263940,
+        "current_amount": 492758,
+        "target_date": "2037-09-30",
+        "priority": "MEDIUM",
+        "customer_id": "PSB000055"
+    },
+    {
+        "goal_name": "Healthcare Fund",
+        "target_amount": 3017177,
+        "current_amount": 799913,
+        "target_date": "2036-10-25",
+        "priority": "MEDIUM",
+        "customer_id": "PSB000019"
+    },
+    {
+        "goal_name": "Higher Education",
+        "target_amount": 1089765,
+        "current_amount": 778650,
+        "target_date": "2033-06-24",
+        "priority": "MEDIUM",
+        "customer_id": "PSB000025"
+    },
+    {
+        "goal_name": "Healthcare Fund",
+        "target_amount": 404931,
+        "current_amount": 174924,
+        "target_date": "2037-06-07",
+        "priority": "HIGH",
+        "customer_id": "PSB000093"
+    },
+    {
+        "goal_name": "Retirement",
+        "target_amount": 2663705,
+        "current_amount": 1872102,
+        "target_date": "2036-01-02",
+        "priority": "LOW",
+        "customer_id": "PSB000076"
+    },
+    {
+        "goal_name": "Child Education",
+        "target_amount": 8602263,
+        "current_amount": 4231416,
+        "target_date": "2035-10-12",
+        "priority": "MEDIUM",
+        "customer_id": "PSB000014"
+    },
+    {
+        "goal_name": "Child Education",
+        "target_amount": 3563607,
+        "current_amount": 461223,
+        "target_date": "2032-12-03",
+        "priority": "LOW",
+        "customer_id": "PSB000021"
+    },
+    {
+        "goal_name": "Emergency Fund",
+        "target_amount": 1715785,
+        "current_amount": 697865,
+        "target_date": "2032-06-14",
+        "priority": "MEDIUM",
+        "customer_id": "PSB000012"
+    },
+    {
+        "goal_name": "Child Education",
+        "target_amount": 2698316,
+        "current_amount": 1312744,
+        "target_date": "2028-09-24",
+        "priority": "LOW",
+        "customer_id": "PSB000074"
+    },
+    {
+        "goal_name": "Healthcare Fund",
+        "target_amount": 3660800,
+        "current_amount": 1968867,
+        "target_date": "2038-08-31",
+        "priority": "MEDIUM",
+        "customer_id": "PSB000082"
+    },
+    {
+        "goal_name": "Healthcare Fund",
+        "target_amount": 6823643,
+        "current_amount": 323559,
+        "target_date": "2032-08-25",
+        "priority": "MEDIUM",
+        "customer_id": "PSB000096"
+    },
+    {
+        "goal_name": "Retirement",
+        "target_amount": 2235822,
+        "current_amount": 474375,
+        "target_date": "2041-04-10",
+        "priority": "LOW",
+        "customer_id": "PSB000081"
+    },
+    {
+        "goal_name": "Child Education",
+        "target_amount": 444268,
+        "current_amount": 196301,
+        "target_date": "2030-03-15",
+        "priority": "LOW",
+        "customer_id": "PSB000023"
+    },
+    {
+        "goal_name": "Retirement",
+        "target_amount": 2039286,
+        "current_amount": 336764,
+        "target_date": "2035-04-03",
+        "priority": "MEDIUM",
+        "customer_id": "PSB000003"
+    },
+    {
+        "goal_name": "Higher Education",
+        "target_amount": 1770453,
+        "current_amount": 120882,
+        "target_date": "2029-09-27",
+        "priority": "HIGH",
+        "customer_id": "PSB000002"
+    },
+    {
+        "goal_name": "Home Purchase",
+        "target_amount": 14702755,
+        "current_amount": 3380937,
+        "target_date": "2032-06-08",
+        "priority": "HIGH",
+        "customer_id": "PSB000080"
+    },
+    {
+        "goal_name": "Retirement",
+        "target_amount": 2049776,
+        "current_amount": 179251,
+        "target_date": "2029-02-09",
+        "priority": "LOW",
+        "customer_id": "PSB000021"
+    },
+    {
+        "goal_name": "Emergency Fund",
+        "target_amount": 2731673,
+        "current_amount": 448008,
+        "target_date": "2037-11-02",
+        "priority": "LOW",
+        "customer_id": "PSB000025"
+    },
+    {
+        "goal_name": "Emergency Fund",
+        "target_amount": 1004218,
+        "current_amount": 437638,
+        "target_date": "2039-07-08",
+        "priority": "MEDIUM",
+        "customer_id": "PSB000029"
+    },
+    {
+        "goal_name": "Vacation",
+        "target_amount": 3360175,
+        "current_amount": 2409953,
+        "target_date": "2028-01-23",
+        "priority": "LOW",
+        "customer_id": "PSB000047"
+    },
+    {
+        "goal_name": "Home Purchase",
+        "target_amount": 2250298,
+        "current_amount": 1053363,
+        "target_date": "2037-10-30",
+        "priority": "LOW",
+        "customer_id": "PSB000051"
+    },
+    {
+        "goal_name": "Healthcare Fund",
+        "target_amount": 7916662,
+        "current_amount": 5138687,
+        "target_date": "2036-12-16",
+        "priority": "HIGH",
+        "customer_id": "PSB000030"
+    },
+    {
+        "goal_name": "Retirement",
+        "target_amount": 1981049,
+        "current_amount": 117866,
+        "target_date": "2033-11-23",
+        "priority": "LOW",
+        "customer_id": "PSB000019"
+    },
+    {
+        "goal_name": "Child Education",
+        "target_amount": 1621994,
+        "current_amount": 430282,
+        "target_date": "2031-07-20",
+        "priority": "HIGH",
+        "customer_id": "PSB000052"
+    },
+    {
+        "goal_name": "Higher Education",
+        "target_amount": 4611752,
+        "current_amount": 1196038,
+        "target_date": "2037-05-11",
+        "priority": "LOW",
+        "customer_id": "PSB000022"
+    },
+    {
+        "goal_name": "Retirement",
+        "target_amount": 2905463,
+        "current_amount": 1255121,
+        "target_date": "2033-02-22",
+        "priority": "LOW",
+        "customer_id": "PSB000030"
+    },
+    {
+        "goal_name": "Retirement",
+        "target_amount": 9303129,
+        "current_amount": 5449646,
+        "target_date": "2040-03-11",
+        "priority": "HIGH",
+        "customer_id": "PSB000030"
+    },
+    {
+        "goal_name": "Healthcare Fund",
+        "target_amount": 1522540,
+        "current_amount": 1079043,
+        "target_date": "2032-11-21",
+        "priority": "HIGH",
+        "customer_id": "PSB000064"
+    },
+    {
+        "goal_name": "Higher Education",
+        "target_amount": 3529555,
+        "current_amount": 300331,
+        "target_date": "2040-11-02",
+        "priority": "MEDIUM",
+        "customer_id": "PSB000015"
+    },
+    {
+        "goal_name": "Healthcare Fund",
+        "target_amount": 8807550,
+        "current_amount": 4107852,
+        "target_date": "2029-06-30",
+        "priority": "HIGH",
+        "customer_id": "PSB000081"
+    },
+    {
+        "goal_name": "Retirement",
+        "target_amount": 515823,
+        "current_amount": 26843,
+        "target_date": "2038-10-21",
+        "priority": "LOW",
+        "customer_id": "PSB000049"
+    },
+    {
+        "goal_name": "Child Education",
+        "target_amount": 15109286,
+        "current_amount": 2219085,
+        "target_date": "2032-11-21",
+        "priority": "MEDIUM",
+        "customer_id": "PSB000016"
+    },
+    {
+        "goal_name": "Retirement",
+        "target_amount": 814222,
+        "current_amount": 24859,
+        "target_date": "2029-04-24",
+        "priority": "HIGH",
+        "customer_id": "PSB000037"
+    },
+    {
+        "goal_name": "Home Purchase",
+        "target_amount": 10003250,
+        "current_amount": 1972736,
+        "target_date": "2028-03-13",
+        "priority": "MEDIUM",
+        "customer_id": "PSB000074"
+    },
+    {
+        "goal_name": "Emergency Fund",
+        "target_amount": 2340969,
+        "current_amount": 1323061,
+        "target_date": "2040-04-15",
+        "priority": "HIGH",
+        "customer_id": "PSB000048"
+    },
+    {
+        "goal_name": "Retirement",
+        "target_amount": 4393568,
+        "current_amount": 1666598,
+        "target_date": "2036-10-19",
+        "priority": "HIGH",
+        "customer_id": "PSB000085"
+    },
+    {
+        "goal_name": "Emergency Fund",
+        "target_amount": 5912455,
+        "current_amount": 2875835,
+        "target_date": "2038-07-27",
+        "priority": "MEDIUM",
+        "customer_id": "PSB000088"
+    },
+    {
+        "goal_name": "Higher Education",
+        "target_amount": 4712482,
+        "current_amount": 1607212,
+        "target_date": "2032-08-27",
+        "priority": "MEDIUM",
+        "customer_id": "PSB000044"
+    },
+    {
+        "goal_name": "Healthcare Fund",
+        "target_amount": 1014448,
+        "current_amount": 551488,
+        "target_date": "2038-01-26",
+        "priority": "HIGH",
+        "customer_id": "PSB000076"
+    },
+    {
+        "goal_name": "Healthcare Fund",
+        "target_amount": 1001127,
+        "current_amount": 737131,
+        "target_date": "2039-09-04",
+        "priority": "LOW",
+        "customer_id": "PSB000056"
+    },
+    {
+        "goal_name": "Retirement",
+        "target_amount": 5744842,
+        "current_amount": 1138300,
+        "target_date": "2027-07-14",
+        "priority": "HIGH",
+        "customer_id": "PSB000060"
+    },
+    {
+        "goal_name": "Retirement",
+        "target_amount": 3266499,
+        "current_amount": 2029696,
+        "target_date": "2039-04-15",
+        "priority": "MEDIUM",
+        "customer_id": "PSB000095"
+    },
+    {
+        "goal_name": "Higher Education",
+        "target_amount": 2416176,
+        "current_amount": 416976,
+        "target_date": "2040-10-27",
+        "priority": "MEDIUM",
+        "customer_id": "PSB000022"
+    },
+    {
+        "goal_name": "Retirement",
+        "target_amount": 5584908,
+        "current_amount": 2666973,
+        "target_date": "2040-08-12",
+        "priority": "LOW",
+        "customer_id": "PSB000080"
+    },
+    {
+        "goal_name": "Home Purchase",
+        "target_amount": 11562683,
+        "current_amount": 7062870,
+        "target_date": "2036-03-31",
+        "priority": "LOW",
+        "customer_id": "PSB000009"
+    },
+    {
+        "goal_name": "Child Education",
+        "target_amount": 3430867,
+        "current_amount": 1919871,
+        "target_date": "2032-05-29",
+        "priority": "HIGH",
+        "customer_id": "PSB000099"
+    },
+    {
+        "goal_name": "Home Purchase",
+        "target_amount": 7683331,
+        "current_amount": 1518101,
+        "target_date": "2036-04-04",
+        "priority": "LOW",
+        "customer_id": "PSB000016"
+    },
+    {
+        "goal_name": "Healthcare Fund",
+        "target_amount": 4054180,
+        "current_amount": 1379093,
+        "target_date": "2031-02-28",
+        "priority": "LOW",
+        "customer_id": "PSB000036"
+    },
+    {
+        "goal_name": "Healthcare Fund",
+        "target_amount": 2368251,
+        "current_amount": 1281004,
+        "target_date": "2038-06-11",
+        "priority": "LOW",
+        "customer_id": "PSB000069"
+    },
+    {
+        "goal_name": "Retirement",
+        "target_amount": 1191215,
+        "current_amount": 547923,
+        "target_date": "2036-08-21",
+        "priority": "LOW",
+        "customer_id": "PSB000058"
+    },
+    {
+        "goal_name": "Healthcare Fund",
+        "target_amount": 470031,
+        "current_amount": 350353,
+        "target_date": "2032-05-20",
+        "priority": "MEDIUM",
+        "customer_id": "PSB000024"
+    },
+    {
+        "goal_name": "Home Purchase",
+        "target_amount": 1623342,
+        "current_amount": 93901,
+        "target_date": "2027-11-01",
+        "priority": "LOW",
+        "customer_id": "PSB000046"
+    },
+    {
+        "goal_name": "Emergency Fund",
+        "target_amount": 4001374,
+        "current_amount": 2216630,
+        "target_date": "2029-09-13",
+        "priority": "LOW",
+        "customer_id": "PSB000035"
+    },
+    {
+        "goal_name": "Child Education",
+        "target_amount": 3089088,
+        "current_amount": 1502634,
+        "target_date": "2032-10-18",
+        "priority": "HIGH",
+        "customer_id": "PSB000010"
+    },
+    {
+        "goal_name": "Healthcare Fund",
+        "target_amount": 404482,
+        "current_amount": 30346,
+        "target_date": "2034-08-24",
+        "priority": "LOW",
+        "customer_id": "PSB000032"
+    },
+    {
+        "goal_name": "Child Education",
+        "target_amount": 4919864,
+        "current_amount": 1806568,
+        "target_date": "2032-07-06",
+        "priority": "MEDIUM",
+        "customer_id": "PSB000021"
+    },
+    {
+        "goal_name": "Healthcare Fund",
+        "target_amount": 2283075,
+        "current_amount": 1805321,
+        "target_date": "2036-03-25",
+        "priority": "HIGH",
+        "customer_id": "PSB000058"
+    },
+    {
+        "goal_name": "Home Purchase",
+        "target_amount": 1682948,
+        "current_amount": 565543,
+        "target_date": "2028-04-26",
+        "priority": "LOW",
+        "customer_id": "PSB000001"
+    },
+    {
+        "goal_name": "Higher Education",
+        "target_amount": 1401149,
+        "current_amount": 102498,
+        "target_date": "2030-12-24",
+        "priority": "HIGH",
+        "customer_id": "PSB000038"
+    },
+    {
+        "goal_name": "Retirement",
+        "target_amount": 3027889,
+        "current_amount": 103054,
+        "target_date": "2039-10-26",
+        "priority": "LOW",
+        "customer_id": "PSB000028"
+    },
+    {
+        "goal_name": "Vacation",
+        "target_amount": 203838,
+        "current_amount": 124798,
+        "target_date": "2029-05-14",
+        "priority": "HIGH",
+        "customer_id": "PSB000091"
+    },
+    {
+        "goal_name": "Home Purchase",
+        "target_amount": 8183517,
+        "current_amount": 1382842,
+        "target_date": "2028-12-06",
+        "priority": "MEDIUM",
+        "customer_id": "PSB000074"
+    },
+    {
+        "goal_name": "Home Purchase",
+        "target_amount": 2684612,
+        "current_amount": 2050605,
+        "target_date": "2029-01-12",
+        "priority": "LOW",
+        "customer_id": "PSB000010"
+    },
+    {
+        "goal_name": "Home Purchase",
+        "target_amount": 9481891,
+        "current_amount": 1994975,
+        "target_date": "2040-04-13",
+        "priority": "HIGH",
+        "customer_id": "PSB000007"
+    },
+    {
+        "goal_name": "Healthcare Fund",
+        "target_amount": 1765056,
+        "current_amount": 174221,
+        "target_date": "2037-01-13",
+        "priority": "MEDIUM",
+        "customer_id": "PSB000069"
+    },
+    {
+        "goal_name": "Retirement",
+        "target_amount": 2703829,
+        "current_amount": 860768,
+        "target_date": "2039-01-17",
+        "priority": "HIGH",
+        "customer_id": "PSB000064"
+    },
+    {
+        "goal_name": "Child Education",
+        "target_amount": 8231277,
+        "current_amount": 3815423,
+        "target_date": "2036-07-04",
+        "priority": "LOW",
+        "customer_id": "PSB000060"
+    },
+    {
+        "goal_name": "Healthcare Fund",
+        "target_amount": 4113035,
+        "current_amount": 813537,
+        "target_date": "2040-05-06",
+        "priority": "HIGH",
+        "customer_id": "PSB000006"
+    },
+    {
+        "goal_name": "Retirement",
+        "target_amount": 388352,
+        "current_amount": 26243,
+        "target_date": "2039-05-26",
+        "priority": "HIGH",
+        "customer_id": "PSB000024"
+    },
+    {
+        "goal_name": "Higher Education",
+        "target_amount": 741696,
+        "current_amount": 124666,
+        "target_date": "2040-10-12",
+        "priority": "MEDIUM",
+        "customer_id": "PSB000079"
+    },
+    {
+        "goal_name": "Retirement",
+        "target_amount": 1026325,
+        "current_amount": 377689,
+        "target_date": "2031-06-12",
+        "priority": "LOW",
+        "customer_id": "PSB000051"
+    },
+    {
+        "goal_name": "Retirement",
+        "target_amount": 3177571,
+        "current_amount": 561468,
+        "target_date": "2040-11-18",
+        "priority": "HIGH",
+        "customer_id": "PSB000057"
+    },
+    {
+        "goal_name": "Child Education",
+        "target_amount": 1160984,
+        "current_amount": 355775,
+        "target_date": "2035-05-17",
+        "priority": "LOW",
+        "customer_id": "PSB000075"
+    },
+    {
+        "goal_name": "Vacation",
+        "target_amount": 3732721,
+        "current_amount": 235845,
+        "target_date": "2034-09-06",
+        "priority": "LOW",
+        "customer_id": "PSB000053"
+    },
+    {
+        "goal_name": "Retirement",
+        "target_amount": 283858,
+        "current_amount": 152306,
+        "target_date": "2031-10-27",
+        "priority": "LOW",
+        "customer_id": "PSB000061"
+    },
+    {
+        "goal_name": "Child Education",
+        "target_amount": 2818210,
+        "current_amount": 2138052,
+        "target_date": "2039-07-23",
+        "priority": "LOW",
+        "customer_id": "PSB000099"
+    },
+    {
+        "goal_name": "Home Purchase",
+        "target_amount": 414338,
+        "current_amount": 70581,
+        "target_date": "2027-07-10",
+        "priority": "HIGH",
+        "customer_id": "PSB000017"
+    },
+    {
+        "goal_name": "Vacation",
+        "target_amount": 1511194,
+        "current_amount": 901816,
+        "target_date": "2030-02-15",
+        "priority": "MEDIUM",
+        "customer_id": "PSB000027"
+    },
+    {
+        "goal_name": "Child Education",
+        "target_amount": 1186652,
+        "current_amount": 597163,
+        "target_date": "2033-10-22",
+        "priority": "LOW",
+        "customer_id": "PSB000001"
+    },
+    {
+        "goal_name": "Retirement",
+        "target_amount": 363135,
+        "current_amount": 126918,
+        "target_date": "2035-12-24",
+        "priority": "LOW",
+        "customer_id": "PSB000011"
+    },
+    {
+        "goal_name": "Higher Education",
+        "target_amount": 2252606,
+        "current_amount": 669263,
+        "target_date": "2040-08-02",
+        "priority": "HIGH",
+        "customer_id": "PSB000035"
+    },
+    {
+        "goal_name": "Retirement",
+        "target_amount": 4216935,
+        "current_amount": 1659127,
+        "target_date": "2034-01-04",
+        "priority": "MEDIUM",
+        "customer_id": "PSB000036"
+    },
+    {
+        "goal_name": "Child Education",
+        "target_amount": 240148,
+        "current_amount": 129303,
+        "target_date": "2029-11-05",
+        "priority": "LOW",
+        "customer_id": "PSB000020"
+    },
+    {
+        "goal_name": "Healthcare Fund",
+        "target_amount": 3708133,
+        "current_amount": 915147,
+        "target_date": "2031-05-27",
+        "priority": "HIGH",
+        "customer_id": "PSB000068"
+    },
+    {
+        "goal_name": "Higher Education",
+        "target_amount": 1463087,
+        "current_amount": 301614,
+        "target_date": "2037-05-28",
+        "priority": "HIGH",
+        "customer_id": "PSB000079"
+    },
+    {
+        "goal_name": "Retirement",
+        "target_amount": 3054294,
+        "current_amount": 1821707,
+        "target_date": "2028-11-18",
+        "priority": "LOW",
+        "customer_id": "PSB000042"
+    },
+    {
+        "goal_name": "Healthcare Fund",
+        "target_amount": 4284622,
+        "current_amount": 2446874,
+        "target_date": "2034-06-19",
+        "priority": "MEDIUM",
+        "customer_id": "PSB000036"
+    },
+    {
+        "goal_name": "Retirement",
+        "target_amount": 9183311,
+        "current_amount": 1934732,
+        "target_date": "2037-07-08",
+        "priority": "MEDIUM",
+        "customer_id": "PSB000070"
+    },
+    {
+        "goal_name": "Healthcare Fund",
+        "target_amount": 1298040,
+        "current_amount": 598675,
+        "target_date": "2036-05-04",
+        "priority": "LOW",
+        "customer_id": "PSB000031"
+    },
+    {
+        "goal_name": "Emergency Fund",
+        "target_amount": 4194753,
+        "current_amount": 2075776,
+        "target_date": "2034-04-24",
+        "priority": "LOW",
+        "customer_id": "PSB000025"
+    },
+    {
+        "goal_name": "Home Purchase",
+        "target_amount": 1924740,
+        "current_amount": 35133,
+        "target_date": "2039-08-15",
+        "priority": "HIGH",
+        "customer_id": "PSB000075"
+    },
+    {
+        "goal_name": "Retirement",
+        "target_amount": 3569050,
+        "current_amount": 2593066,
+        "target_date": "2039-10-01",
+        "priority": "LOW",
+        "customer_id": "PSB000085"
+    },
+    {
+        "goal_name": "Child Education",
+        "target_amount": 3354268,
+        "current_amount": 1203982,
+        "target_date": "2028-12-01",
+        "priority": "HIGH",
+        "customer_id": "PSB000075"
+    },
+    {
+        "goal_name": "Home Purchase",
+        "target_amount": 617202,
+        "current_amount": 134735,
+        "target_date": "2033-03-07",
+        "priority": "HIGH",
+        "customer_id": "PSB000099"
+    },
+    {
+        "goal_name": "Retirement",
+        "target_amount": 1217901,
+        "current_amount": 180859,
+        "target_date": "2035-10-23",
+        "priority": "LOW",
+        "customer_id": "PSB000021"
+    },
+    {
+        "goal_name": "Child Education",
+        "target_amount": 5424793,
+        "current_amount": 2606766,
+        "target_date": "2033-01-17",
+        "priority": "HIGH",
+        "customer_id": "PSB000090"
+    },
+    {
+        "goal_name": "Vacation",
+        "target_amount": 4264543,
+        "current_amount": 42952,
+        "target_date": "2033-03-05",
+        "priority": "HIGH",
+        "customer_id": "PSB000059"
+    },
+    {
+        "goal_name": "Higher Education",
+        "target_amount": 3274939,
+        "current_amount": 760796,
+        "target_date": "2040-07-13",
+        "priority": "HIGH",
+        "customer_id": "PSB000038"
+    },
+    {
+        "goal_name": "Emergency Fund",
+        "target_amount": 815212,
+        "current_amount": 115151,
+        "target_date": "2037-02-19",
+        "priority": "MEDIUM",
+        "customer_id": "PSB000015"
+    },
+    {
+        "goal_name": "Healthcare Fund",
+        "target_amount": 1000092,
+        "current_amount": 131738,
+        "target_date": "2030-12-19",
+        "priority": "HIGH",
+        "customer_id": "PSB000028"
+    },
+    {
+        "goal_name": "Healthcare Fund",
+        "target_amount": 2057858,
+        "current_amount": 131853,
+        "target_date": "2030-02-25",
+        "priority": "MEDIUM",
+        "customer_id": "PSB000045"
+    },
+    {
+        "goal_name": "Retirement",
+        "target_amount": 472017,
+        "current_amount": 335867,
+        "target_date": "2031-12-28",
+        "priority": "HIGH",
+        "customer_id": "PSB000092"
+    },
+    {
+        "goal_name": "Retirement",
+        "target_amount": 523006,
+        "current_amount": 393367,
+        "target_date": "2035-11-21",
+        "priority": "MEDIUM",
+        "customer_id": "PSB000026"
+    },
+    {
+        "goal_name": "Retirement",
+        "target_amount": 980342,
+        "current_amount": 200706,
+        "target_date": "2029-01-19",
+        "priority": "MEDIUM",
+        "customer_id": "PSB000093"
+    },
+    {
+        "goal_name": "Child Education",
+        "target_amount": 11946898,
+        "current_amount": 5275138,
+        "target_date": "2036-09-12",
+        "priority": "LOW",
+        "customer_id": "PSB000052"
+    },
+    {
+        "goal_name": "Retirement",
+        "target_amount": 3248656,
+        "current_amount": 2162165,
+        "target_date": "2031-07-29",
+        "priority": "LOW",
+        "customer_id": "PSB000042"
+    },
+    {
+        "goal_name": "Home Purchase",
+        "target_amount": 159440,
+        "current_amount": 127484,
+        "target_date": "2035-04-20",
+        "priority": "MEDIUM",
+        "customer_id": "PSB000043"
+    },
+    {
+        "goal_name": "Retirement",
+        "target_amount": 454539,
+        "current_amount": 98449,
+        "target_date": "2035-07-12",
+        "priority": "LOW",
+        "customer_id": "PSB000043"
+    },
+    {
+        "goal_name": "Retirement",
+        "target_amount": 2989396,
+        "current_amount": 889617,
+        "target_date": "2028-11-09",
+        "priority": "LOW",
+        "customer_id": "PSB000065"
+    },
+    {
+        "goal_name": "Retirement",
+        "target_amount": 2747697,
+        "current_amount": 1889720,
+        "target_date": "2030-03-28",
+        "priority": "MEDIUM",
+        "customer_id": "PSB000057"
+    },
+    {
+        "goal_name": "Retirement",
+        "target_amount": 1807580,
+        "current_amount": 46233,
+        "target_date": "2041-01-18",
+        "priority": "HIGH",
+        "customer_id": "PSB000033"
+    },
+    {
+        "goal_name": "Retirement",
+        "target_amount": 1435097,
+        "current_amount": 1016318,
+        "target_date": "2028-03-10",
+        "priority": "MEDIUM",
+        "customer_id": "PSB000045"
+    },
+    {
+        "goal_name": "Emergency Fund",
+        "target_amount": 5676258,
+        "current_amount": 792926,
+        "target_date": "2036-11-29",
+        "priority": "LOW",
+        "customer_id": "PSB000022"
+    },
+    {
+        "goal_name": "Healthcare Fund",
+        "target_amount": 4034374,
+        "current_amount": 2274934,
+        "target_date": "2027-06-15",
+        "priority": "HIGH",
+        "customer_id": "PSB000073"
+    },
+    {
+        "goal_name": "Healthcare Fund",
+        "target_amount": 1604883,
+        "current_amount": 609176,
+        "target_date": "2038-02-14",
+        "priority": "HIGH",
+        "customer_id": "PSB000050"
+    },
+    {
+        "goal_name": "Retirement",
+        "target_amount": 11301819,
+        "current_amount": 3273654,
+        "target_date": "2034-06-20",
+        "priority": "MEDIUM",
+        "customer_id": "PSB000008"
+    },
+    {
+        "goal_name": "Vacation",
+        "target_amount": 270928,
+        "current_amount": 122708,
+        "target_date": "2037-12-18",
+        "priority": "HIGH",
+        "customer_id": "PSB000091"
+    },
+    {
+        "goal_name": "Vacation",
+        "target_amount": 624447,
+        "current_amount": 163751,
+        "target_date": "2028-02-19",
+        "priority": "HIGH",
+        "customer_id": "PSB000035"
+    },
+    {
+        "goal_name": "Child Education",
+        "target_amount": 410244,
+        "current_amount": 100077,
+        "target_date": "2030-01-30",
+        "priority": "LOW",
+        "customer_id": "PSB000023"
+    },
+    {
+        "goal_name": "Retirement",
+        "target_amount": 7071483,
+        "current_amount": 4043521,
+        "target_date": "2032-02-27",
+        "priority": "LOW",
+        "customer_id": "PSB000066"
+    },
+    {
+        "goal_name": "Vacation",
+        "target_amount": 3688559,
+        "current_amount": 2596525,
+        "target_date": "2036-09-30",
+        "priority": "LOW",
+        "customer_id": "PSB000012"
+    },
+    {
+        "goal_name": "Healthcare Fund",
+        "target_amount": 3553859,
+        "current_amount": 2422772,
+        "target_date": "2034-11-29",
+        "priority": "HIGH",
+        "customer_id": "PSB000073"
+    },
+    {
+        "goal_name": "Retirement",
+        "target_amount": 3556762,
+        "current_amount": 1134432,
+        "target_date": "2031-02-12",
+        "priority": "HIGH",
+        "customer_id": "PSB000006"
+    },
+    {
+        "goal_name": "Emergency Fund",
+        "target_amount": 1874235,
+        "current_amount": 856446,
+        "target_date": "2038-08-19",
+        "priority": "MEDIUM",
+        "customer_id": "PSB000002"
+    },
+    {
+        "goal_name": "Home Purchase",
+        "target_amount": 34781055,
+        "current_amount": 4388170,
+        "target_date": "2032-09-16",
+        "priority": "LOW",
+        "customer_id": "PSB000009"
+    },
+    {
+        "goal_name": "Vacation",
+        "target_amount": 1464478,
+        "current_amount": 946864,
+        "target_date": "2028-08-20",
+        "priority": "HIGH",
+        "customer_id": "PSB000048"
+    },
+    {
+        "goal_name": "Home Purchase",
+        "target_amount": 8457187,
+        "current_amount": 5031171,
+        "target_date": "2038-06-18",
+        "priority": "LOW",
+        "customer_id": "PSB000066"
+    },
+    {
+        "goal_name": "Child Education",
+        "target_amount": 1451511,
+        "current_amount": 62921,
+        "target_date": "2033-11-13",
+        "priority": "HIGH",
+        "customer_id": "PSB000041"
+    },
+    {
+        "goal_name": "Emergency Fund",
+        "target_amount": 599641,
+        "current_amount": 124696,
+        "target_date": "2033-09-24",
+        "priority": "HIGH",
+        "customer_id": "PSB000063"
+    },
+    {
+        "goal_name": "Home Purchase",
+        "target_amount": 12392007,
+        "current_amount": 9351960,
+        "target_date": "2040-01-31",
+        "priority": "LOW",
+        "customer_id": "PSB000009"
+    },
+    {
+        "goal_name": "Healthcare Fund",
+        "target_amount": 472131,
+        "current_amount": 43876,
+        "target_date": "2032-08-11",
+        "priority": "MEDIUM",
+        "customer_id": "PSB000032"
+    },
+    {
+        "goal_name": "Higher Education",
+        "target_amount": 1696029,
+        "current_amount": 1017857,
+        "target_date": "2033-12-19",
+        "priority": "MEDIUM",
+        "customer_id": "PSB000038"
+    },
+    {
+        "goal_name": "Child Education",
+        "target_amount": 1195347,
+        "current_amount": 174939,
+        "target_date": "2030-02-01",
+        "priority": "MEDIUM",
+        "customer_id": "PSB000021"
+    },
+    {
+        "goal_name": "Home Purchase",
+        "target_amount": 14185995,
+        "current_amount": 4400074,
+        "target_date": "2031-06-07",
+        "priority": "LOW",
+        "customer_id": "PSB000052"
+    },
+    {
+        "goal_name": "Retirement",
+        "target_amount": 392703,
+        "current_amount": 44249,
+        "target_date": "2038-03-13",
+        "priority": "HIGH",
+        "customer_id": "PSB000043"
+    },
+    {
+        "goal_name": "Healthcare Fund",
+        "target_amount": 7135422,
+        "current_amount": 5529203,
+        "target_date": "2031-03-30",
+        "priority": "LOW",
+        "customer_id": "PSB000008"
+    },
+    {
+        "goal_name": "Vacation",
+        "target_amount": 2701253,
+        "current_amount": 837661,
+        "target_date": "2031-01-12",
+        "priority": "MEDIUM",
+        "customer_id": "PSB000029"
+    },
+    {
+        "goal_name": "Retirement",
+        "target_amount": 1364440,
+        "current_amount": 498847,
+        "target_date": "2028-10-10",
+        "priority": "MEDIUM",
+        "customer_id": "PSB000031"
+    },
+    {
+        "goal_name": "Healthcare Fund",
+        "target_amount": 7887673,
+        "current_amount": 585913,
+        "target_date": "2031-07-29",
+        "priority": "MEDIUM",
+        "customer_id": "PSB000077"
+    },
+    {
+        "goal_name": "Home Purchase",
+        "target_amount": 2071937,
+        "current_amount": 1358689,
+        "target_date": "2035-05-02",
+        "priority": "MEDIUM",
+        "customer_id": "PSB000016"
+    },
+    {
+        "goal_name": "Home Purchase",
+        "target_amount": 918893,
+        "current_amount": 515052,
+        "target_date": "2028-09-12",
+        "priority": "HIGH",
+        "customer_id": "PSB000075"
+    },
+    {
+        "goal_name": "Healthcare Fund",
+        "target_amount": 182867,
+        "current_amount": 35173,
+        "target_date": "2035-10-16",
+        "priority": "MEDIUM",
+        "customer_id": "PSB000061"
+    },
+    {
+        "goal_name": "Healthcare Fund",
+        "target_amount": 13262063,
+        "current_amount": 10396030,
+        "target_date": "2031-12-25",
+        "priority": "LOW",
+        "customer_id": "PSB000030"
+    },
+    {
+        "goal_name": "Retirement",
+        "target_amount": 411584,
+        "current_amount": 52099,
+        "target_date": "2030-10-22",
+        "priority": "HIGH",
+        "customer_id": "PSB000043"
+    },
+    {
+        "goal_name": "Retirement",
+        "target_amount": 452214,
+        "current_amount": 241393,
+        "target_date": "2040-06-11",
+        "priority": "HIGH",
+        "customer_id": "PSB000043"
+    },
+    {
+        "goal_name": "Retirement",
+        "target_amount": 505298,
+        "current_amount": 372709,
+        "target_date": "2035-05-13",
+        "priority": "HIGH",
+        "customer_id": "PSB000056"
+    },
+    {
+        "goal_name": "Healthcare Fund",
+        "target_amount": 1907850,
+        "current_amount": 614105,
+        "target_date": "2039-04-28",
+        "priority": "LOW",
+        "customer_id": "PSB000093"
+    },
+    {
+        "goal_name": "Child Education",
+        "target_amount": 139220,
+        "current_amount": 37438,
+        "target_date": "2038-04-12",
+        "priority": "MEDIUM",
+        "customer_id": "PSB000023"
+    },
+    {
+        "goal_name": "Emergency Fund",
+        "target_amount": 3037498,
+        "current_amount": 1970132,
+        "target_date": "2041-03-23",
+        "priority": "LOW",
+        "customer_id": "PSB000048"
+    },
+    {
+        "goal_name": "Healthcare Fund",
+        "target_amount": 681749,
+        "current_amount": 539143,
+        "target_date": "2033-03-10",
+        "priority": "MEDIUM",
+        "customer_id": "PSB000068"
+    },
+    {
+        "goal_name": "Healthcare Fund",
+        "target_amount": 1483260,
+        "current_amount": 124003,
+        "target_date": "2033-10-08",
+        "priority": "LOW",
+        "customer_id": "PSB000078"
+    },
+    {
+        "goal_name": "Higher Education",
+        "target_amount": 6049202,
+        "current_amount": 1118962,
+        "target_date": "2036-02-05",
+        "priority": "MEDIUM",
+        "customer_id": "PSB000038"
+    },
+    {
+        "goal_name": "Higher Education",
+        "target_amount": 10724084,
+        "current_amount": 3831465,
+        "target_date": "2039-07-22",
+        "priority": "HIGH",
+        "customer_id": "PSB000086"
+    },
+    {
+        "goal_name": "Emergency Fund",
+        "target_amount": 3997923,
+        "current_amount": 1618297,
+        "target_date": "2032-02-27",
+        "priority": "HIGH",
+        "customer_id": "PSB000038"
+    },
+    {
+        "goal_name": "Healthcare Fund",
+        "target_amount": 204770,
+        "current_amount": 123050,
+        "target_date": "2032-01-05",
+        "priority": "LOW",
+        "customer_id": "PSB000024"
+    },
+    {
+        "goal_name": "Healthcare Fund",
+        "target_amount": 4878748,
+        "current_amount": 2555459,
+        "target_date": "2033-02-20",
+        "priority": "LOW",
+        "customer_id": "PSB000077"
+    },
+    {
+        "goal_name": "Retirement",
+        "target_amount": 341718,
+        "current_amount": 193617,
+        "target_date": "2030-08-05",
+        "priority": "HIGH",
+        "customer_id": "PSB000032"
+    },
+    {
+        "goal_name": "Retirement",
+        "target_amount": 2315883,
+        "current_amount": 38657,
+        "target_date": "2033-05-30",
+        "priority": "HIGH",
+        "customer_id": "PSB000081"
+    },
+    {
+        "goal_name": "Emergency Fund",
+        "target_amount": 1597214,
+        "current_amount": 21783,
+        "target_date": "2034-01-28",
+        "priority": "MEDIUM",
+        "customer_id": "PSB000089"
+    },
+    {
+        "goal_name": "Emergency Fund",
+        "target_amount": 1864082,
+        "current_amount": 1202088,
+        "target_date": "2033-02-28",
+        "priority": "MEDIUM",
+        "customer_id": "PSB000035"
+    },
+    {
+        "goal_name": "Child Education",
+        "target_amount": 816627,
+        "current_amount": 441763,
+        "target_date": "2040-09-19",
+        "priority": "LOW",
+        "customer_id": "PSB000001"
+    },
+    {
+        "goal_name": "Retirement",
+        "target_amount": 1784084,
+        "current_amount": 344848,
+        "target_date": "2027-08-23",
+        "priority": "HIGH",
+        "customer_id": "PSB000014"
+    },
+    {
+        "goal_name": "Healthcare Fund",
+        "target_amount": 1294671,
+        "current_amount": 12253,
+        "target_date": "2030-03-14",
+        "priority": "HIGH",
+        "customer_id": "PSB000056"
+    },
+    {
+        "goal_name": "Child Education",
+        "target_amount": 4535913,
+        "current_amount": 1602193,
+        "target_date": "2039-07-16",
+        "priority": "MEDIUM",
+        "customer_id": "PSB000065"
+    },
+    {
+        "goal_name": "Retirement",
+        "target_amount": 2202547,
+        "current_amount": 1118590,
+        "target_date": "2031-10-19",
+        "priority": "LOW",
+        "customer_id": "PSB000094"
+    },
+    {
+        "goal_name": "Child Education",
+        "target_amount": 2950336,
+        "current_amount": 579270,
+        "target_date": "2031-04-23",
+        "priority": "MEDIUM",
+        "customer_id": "PSB000087"
+    },
+    {
+        "goal_name": "Higher Education",
+        "target_amount": 2336015,
+        "current_amount": 1323510,
+        "target_date": "2038-09-30",
+        "priority": "HIGH",
+        "customer_id": "PSB000012"
+    },
+    {
+        "goal_name": "Healthcare Fund",
+        "target_amount": 1710648,
+        "current_amount": 1078528,
+        "target_date": "2028-12-15",
+        "priority": "HIGH",
+        "customer_id": "PSB000037"
+    },
+    {
+        "goal_name": "Home Purchase",
+        "target_amount": 2280079,
+        "current_amount": 360733,
+        "target_date": "2029-11-16",
+        "priority": "MEDIUM",
+        "customer_id": "PSB000060"
+    },
+    {
+        "goal_name": "Retirement",
+        "target_amount": 147837,
+        "current_amount": 13735,
+        "target_date": "2033-09-24",
+        "priority": "LOW",
+        "customer_id": "PSB000011"
+    },
+    {
+        "goal_name": "Retirement",
+        "target_amount": 6367499,
+        "current_amount": 2684259,
+        "target_date": "2032-05-16",
+        "priority": "MEDIUM",
+        "customer_id": "PSB000085"
+    },
+    {
+        "goal_name": "Healthcare Fund",
+        "target_amount": 6272665,
+        "current_amount": 142612,
+        "target_date": "2030-01-28",
+        "priority": "LOW",
+        "customer_id": "PSB000003"
+    },
+    {
+        "goal_name": "Retirement",
+        "target_amount": 864398,
+        "current_amount": 51077,
+        "target_date": "2040-07-10",
+        "priority": "MEDIUM",
+        "customer_id": "PSB000045"
+    },
+    {
+        "goal_name": "Retirement",
+        "target_amount": 243468,
+        "current_amount": 18807,
+        "target_date": "2038-03-15",
+        "priority": "HIGH",
+        "customer_id": "PSB000032"
+    },
+    {
+        "goal_name": "Healthcare Fund",
+        "target_amount": 11878118,
+        "current_amount": 3010824,
+        "target_date": "2037-10-25",
+        "priority": "HIGH",
+        "customer_id": "PSB000003"
+    },
+    {
+        "goal_name": "Child Education",
+        "target_amount": 3184711,
+        "current_amount": 2156472,
+        "target_date": "2033-08-25",
+        "priority": "MEDIUM",
+        "customer_id": "PSB000041"
+    },
+    {
+        "goal_name": "Retirement",
+        "target_amount": 3854335,
+        "current_amount": 1235970,
+        "target_date": "2040-05-12",
+        "priority": "LOW",
+        "customer_id": "PSB000072"
+    },
+    {
+        "goal_name": "Child Education",
+        "target_amount": 3948790,
+        "current_amount": 1929828,
+        "target_date": "2035-01-25",
+        "priority": "HIGH",
+        "customer_id": "PSB000007"
+    },
+    {
+        "goal_name": "Home Purchase",
+        "target_amount": 4806411,
+        "current_amount": 1127156,
+        "target_date": "2032-01-25",
+        "priority": "LOW",
+        "customer_id": "PSB000099"
+    },
+    {
+        "goal_name": "Healthcare Fund",
+        "target_amount": 2027812,
+        "current_amount": 1205035,
+        "target_date": "2035-09-03",
+        "priority": "MEDIUM",
+        "customer_id": "PSB000030"
+    },
+    {
+        "goal_name": "Retirement",
+        "target_amount": 2777005,
+        "current_amount": 1379645,
+        "target_date": "2039-12-23",
+        "priority": "LOW",
+        "customer_id": "PSB000017"
+    },
+    {
+        "goal_name": "Retirement",
+        "target_amount": 477408,
+        "current_amount": 157594,
+        "target_date": "2030-05-18",
+        "priority": "HIGH",
+        "customer_id": "PSB000061"
+    },
+    {
+        "goal_name": "Healthcare Fund",
+        "target_amount": 2016279,
+        "current_amount": 586950,
+        "target_date": "2033-01-06",
+        "priority": "MEDIUM",
+        "customer_id": "PSB000049"
+    },
+    {
+        "goal_name": "Child Education",
+        "target_amount": 602273,
+        "current_amount": 155438,
+        "target_date": "2040-10-02",
+        "priority": "MEDIUM",
+        "customer_id": "PSB000090"
+    },
+    {
+        "goal_name": "Vacation",
+        "target_amount": 7997422,
+        "current_amount": 3931968,
+        "target_date": "2029-10-21",
+        "priority": "HIGH",
+        "customer_id": "PSB000053"
+    },
+    {
+        "goal_name": "Retirement",
+        "target_amount": 5132490,
+        "current_amount": 2175734,
+        "target_date": "2028-05-05",
+        "priority": "LOW",
+        "customer_id": "PSB000098"
+    }
+]

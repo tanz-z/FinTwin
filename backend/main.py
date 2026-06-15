@@ -1,5 +1,5 @@
 from fastapi import FastAPI, Depends, HTTPException
-from api import wealth,protection
+from api import wealth,protection,users
 from models.schema import Base
 from sqlalchemy.orm import Session
 from sqlalchemy import text  # <-- Make sure to import 'text'
@@ -14,6 +14,7 @@ app = FastAPI(title="SecureWealth Twin Core API")
 # Mount Routers
 app.include_router(wealth.router)
 app.include_router(protection.router)
+app.include_router(users.router)
 
 @app.get("/")
 def health_check():
