@@ -99,7 +99,7 @@ function Navbar() {
         {/* ACTIONS */}
         <div className="nav-actions">
 
-          <FaSearch className="nav-icon" />
+          <FaSearch className="nav-icon" style={{ marginLeft: "10px" }} />
           <FaBell className="nav-icon" />
           <FaUserCircle className="profile-icon" />
 
