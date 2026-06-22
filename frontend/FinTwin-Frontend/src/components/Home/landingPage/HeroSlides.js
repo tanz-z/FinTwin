@@ -1,23 +1,24 @@
 import aiImage from "../../../assets/aiImg.png";
 import securityImage from "../../../assets/securityImg.png";
 import bankingImage from "../../../assets/bankingImg.png";
-import loanImage from "../../../assets/loanImg.png";
+import investmentImage from "../../../assets/investment.png";
 
 const HeroSlides = [
-  
-    
   {
     title: "Smart Banking",
     subtitle: "Transfer funds, pay bills, and manage accounts effortlessly.",
     image: bankingImage,
     button: "Start Banking",
+    route: "/banking",
   },
+
   {
     title: "Your Personal AI Wealth Manager",
     subtitle:
       "Analyze spending, track goals, and grow your wealth with AI-powered banking.",
     image: aiImage,
     button: "Try AI Assistant",
+    route: "/aiassistant",
   },
 
   {
@@ -26,17 +27,17 @@ const HeroSlides = [
       "Real-time fraud detection and advanced cybersecurity protection.",
     image: securityImage,
     button: "Explore Security",
+    route: "/security",
   },
-
 
   {
     title: "Investment Hub",
     subtitle:
       "Track mutual funds, FDs and investment goals from one dashboard.",
-    image: loanImage,
+    image: investmentImage,
     button: "View Investments",
+    route: "/investment",
   },
-
 ];
 
 export default HeroSlides;
