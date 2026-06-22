@@ -1,7 +1,7 @@
 import aiImage from "../../../assets/aiImg.png";
 import securityImage from "../../../assets/securityImg.png";
 import bankingImage from "../../../assets/bankingImg.png";
-import investmentImage from "../../../assets/investment.png";
+import LoanImage from "../../../assets/loanImg.png";
 
 const HeroSlides = [
   {
@@ -34,7 +34,7 @@ const HeroSlides = [
     title: "Investment Hub",
     subtitle:
       "Track mutual funds, FDs and investment goals from one dashboard.",
-    image: investmentImage,
+    image: LoanImage,
     button: "View Investments",
     route: "/investment",
   },
