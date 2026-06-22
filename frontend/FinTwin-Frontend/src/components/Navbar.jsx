@@ -1,4 +1,5 @@
 import psbLogo from "../assets/psb-logo.jpg";
+import { Link } from "react-router-dom";
 
 import {
   FaSearch,
@@ -17,19 +18,13 @@ function Navbar() {
   const navigate = useNavigate();
   const navRef = useRef();
 
-  const [openMenu, setOpenMenu] = useState(null);
   const [mobileOpen, setMobileOpen] = useState(false);
   const [showLogin, setShowLogin] = useState(false);
-
-  const toggleMenu = (menu) => {
-    setOpenMenu((prev) => (prev === menu ? null : menu));
-  };
 
   // close dropdown when clicking outside
   useEffect(() => {
     const handleClickOutside = (event) => {
       if (navRef.current && !navRef.current.contains(event.target)) {
-        setOpenMenu(null);
         setMobileOpen(false);
       }
     };
@@ -55,44 +50,19 @@ function Navbar() {
         {/* LINKS */}
         <div className={`nav-links ${mobileOpen ? "active" : ""}`}>
 
-          <a href="/">Home</a>
+          
 
-          <div className="dropdown">
-            <a onClick={() => toggleMenu("banking")}>Banking</a>
-            {openMenu === "banking" && (
-              <div className="dropdown-menu">
-                <a>Savings</a>
-                <a>Current</a>
-                <a>Transfers</a>
-              </div>
-            )}
-          </div>
+          <Link to="/">Home</Link>
 
-          <div className="dropdown">
-            <a onClick={() => toggleMenu("loans")}>Loans</a>
-            {openMenu === "loans" && (
-              <div className="dropdown-menu">
-                <a>Personal</a>
-                <a>Home</a>
-                <a>Education</a>
-              </div>
-            )}
-          </div>
+  <Link to="/banking">Banking</Link>
 
-          <div className="dropdown">
-            <a onClick={() => toggleMenu("investments")}>Investments</a>
-            {openMenu === "investments" && (
-              <div className="dropdown-menu">
-                <a>Mutual Funds</a>
-                <a>FD</a>
-                <a>Retirement</a>
-              </div>
-            )}
-          </div>
+  <Link to="/loan">Loans</Link>
 
-          <a href="#" className="ai-link">
+  <Link to="/investment">Investments</Link>
+
+  <Link to="/aiassistant" className="ai-link">
             <FaRobot /> AI Assistant
-          </a>
+         </Link>
 
         </div>
 

@@ -1,10 +1,11 @@
-import Sidebar from "../components/dashboard/SideBar";
-import Topbar from "../components/dashboard/TopBar";
-import BalanceCard from "../components/dashboard/BalanceCard";
-import QuickActions from "../components/dashboard/QuickActions";
-import Transactions from "../components/dashboard/Transactions";
-import AiPanel from "../components/dashboard/AiPanel";
-import "../styles/Dashboard.css";
+import Sidebar from "./SideBar";
+import Topbar from "./TopBar";
+import BalanceCard from "./BalanceCard";
+import QuickActions from "./QuickActions";
+import Transactions from "./Transactions";
+import AiPanel from "./AiPanel";
+import "../../styles/Dashboard.css";
+import ScrollToTop from "../Home/landingPage/ScrollToTop";
 
 
 import { useState } from "react";
@@ -15,6 +16,7 @@ function Dashboard() {
   return (
     <div className="dashboard-container">
 
+      <ScrollToTop />
       <Sidebar />
 
       <div className="dashboard-main">

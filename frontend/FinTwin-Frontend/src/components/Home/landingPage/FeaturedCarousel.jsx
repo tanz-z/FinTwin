@@ -1,8 +1,8 @@
-import ai from "../assets/ai.png";
-import security from "../assets/security.png";
-import loans from "../assets/loans.png";
-import investment from "../assets/investment.png";
-import mobilebanking from "../assets/mobilebanking.png";
+import ai from "../../../assets/ai.png";
+import security from "../../../assets/security.png";
+import loans from "../../../assets/loans.png";
+import investment from "../../../assets/investment.png";
+import mobilebanking from "../../../assets/mobilebanking.png";
 
 function FeaturedCarousel() {
 

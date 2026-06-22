@@ -1,8 +1,9 @@
 import { useState, useEffect } from "react"; 
-import HeroSlides from "./data/heroSlides"; 
+import HeroSlides from "./HeroSlides"; 
 import HeroSlide from "./HeroSlide"; 
 import { FaChevronLeft, FaChevronRight } from "react-icons/fa";
- import "../styles/heroCarousel.css";
+import "../../../styles/heroCarousel.css";
+
 function HeroCarousel() {
   const [current, setCurrent] = useState(0);
   const [fade, setFade] = useState(true);

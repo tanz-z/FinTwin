@@ -1,10 +1,10 @@
 import { Outlet } from "react-router-dom";
 
 import Navbar from "../components/Navbar";
-import Stats from "../components/Stats";
-import Features from "../components/Features";
-import Security from "../components/Security";
-import Testimonials from "../components/Testimonials";
+import Stats from "../components/Home/landingPage/Stats";
+
+import Security from "../components/Home/landingPage/Security";
+import Testimonials from "../components/Home/landingPage/Testimonials";
 import Footer from "../components/Footer";
 
 function MainLayout() {
@@ -17,7 +17,7 @@ function MainLayout() {
       <Outlet />
 
       {/* GLOBAL SECTIONS (every page) */}
-      <Features />
+      
       <Stats />
       <Security />
       <Testimonials />

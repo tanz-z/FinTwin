@@ -32,6 +32,10 @@
     0 0 40px rgba(59,220,99,0.10);
 }
 
+.hero-title {
+  font-size: 5rem;
+}
+
 @keyframes slideEnter{
   from{
     opacity:0;
@@ -43,6 +47,7 @@
     transform:translateY(0);
   }
 }
+
 
 .hero-content{
   flex:1;
