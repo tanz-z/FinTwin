@@ -8,7 +8,7 @@ import Home from "./components/Home/landingPage/Home";
 import Dashboard from "./components/dashboard/Dashboard";
 import BankingPage from "./components/Home/banking/BankingPage";
 import InvestmentPage from "./components/Home/investment/InvestmentPage";
-import LoanPage from "./components/Home/loans/LoanPage";
+import Loans from "./components/Home/loans/Loans";
 import AiPage from "./components/Home/aiassistant/AiPage";
 
 function App() {
@@ -34,7 +34,7 @@ function App() {
         <Route path="/banking" element={<BankingPage />} />
         
         <Route path="/investment" element={<InvestmentPage />} />
-        <Route path="/loan" element={<LoanPage/>} />
+        <Route path="/loan" element={<Loans/>} />
         <Route path="/aiassistant" element={<AiPage/>} />
 
 

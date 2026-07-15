@@ -1,7 +1,7 @@
 import aiImage from "../../../assets/aiImg.png";
 import securityImage from "../../../assets/securityImg.png";
 import bankingImage from "../../../assets/bankingImg.png";
-import LoanImage from "../../../assets/loanImg.png";
+import LoanImage from "../../../assets/loans.jpeg";
 
 const HeroSlides = [
   {
