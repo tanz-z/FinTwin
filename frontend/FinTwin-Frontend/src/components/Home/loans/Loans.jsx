@@ -1,85 +1,144 @@
-import '../../../App.css';
-
-const loanTypes = [
-  {
-    title: "Home Loan",
-    
-    rate: "8.35% p.a.",
-    tenure: "Up to 30 Years",
-    amount: "Up to ₹5 Crore",
-  },
-  {
-    title: "Vehicle Loan",
-   
-    rate: "8.75% p.a.",
-    tenure: "Up to 7 Years",
-    amount: "Up to ₹1 Crore",
-  },
-  {
-    title: "Education Loan",
-
-    rate: "8.10% p.a.",
-    tenure: "Up to 15 Years",
-    amount: "As per eligibility",
-  },
-  {
-    title: "Personal Loan",
-
-    rate: "10.50% p.a.",
-    tenure: "Up to 5 Years",
-    amount: "Up to ₹40 Lakh",
-  }
-];
-
-function Loans() {
+import LoansLeft from './LoansLeft';
+import LoansRight from './LoansRight';
+import homeloan from "../../../assets/homeloan.jpg"
+import personalloan from "../../../assets/personalloan.png"
+import LoanToptext from './LoanToptext';
+import carLoan from "../../../assets/carLoan.png"
+import goldLoan from "../../../assets/goldLoan.png"
+import businessLoan from "../../../assets/businessLoan.png"
+import educationLoan from "../../../assets/educationLoan.png"
+import LoanCTA from './LoanCTA';
+ 
+const Loans = () => {
   return (
-    <div className="loans align-center sm-2">
-
-      <div className="row">
-        <div className="col-12 sm-4 md-4 lg-4">
-
     
 
-      <section className="loan-hero">
-        <h1>Loans for Every Dream</h1>
-        <p>
-          Competitive interest rates with quick approvals and flexible repayment
-          options.
-        </p>
+    <div className="loans">
+      <LoanToptext/>
+      <LoansLeft
+        image={personalloan}
+       
+        title={
+          <>
+        Personal Loan for Personal Growth
+        <br />
+        10.50% onwards
+      </>
+    }
+    description={
+      <>
+        Meet personal expenses such as weddings, travel,
+        medical emergencies, or home renovation without collateral.
+      </>
+    }
+  />
 
-        <div className="hero-buttons">
-          <button>Apply Now</button>
-          <button className="outline">EMI Calculator</button>
-        </div>
-      </section>
+  <hr/>
 
-      <section className="loan-grid">
+  <LoansRight
+    image={homeloan}
+    title={
+      <>
+        Home Loan
+        <br />
+        8.35% onwards
+      </>
+    }
+    description={
+      <>
+        Finance your dream home with low EMIs,
+        flexible repayment options, and quick approvals.
+      </>
+    }
+  />
 
-        {loanTypes.map((loan, index) => (
 
-          <div className="loan-card" key={index}>
+  <hr/>
+  <LoansLeft
+    image={carLoan}
+    title={
+      <>
+        Vehicle Loan
+        <br />
+        8.75% onwards
+      </>
+    }
+    description={
+      <>
+        Purchase a new or used car with attractive interest rates,
+        minimal documentation, and fast disbursal.
+      </>
+    }
+  />
 
-          
 
-            <h3>{loan.title}</h3>
+  <hr/>
 
-            <p><strong>Interest:</strong> {loan.rate}</p>
 
-            <p><strong>Tenure:</strong> {loan.tenure}</p>
+  <LoansRight
+    image={educationLoan}
+    title={
+      <>
+        Education Loan
+        <br />
+        8.95% onwards
+      </>
+    }
+    description={
+      <>
+        Fund higher education in India or abroad,
+        covering tuition fees, accommodation, and study-related expenses.
+      </>
+    }
+  />
 
-            <p><strong>Amount:</strong> {loan.amount}</p>
+    <hr/>
 
-            <button>Know More</button>
 
-          </div>
 
-        ))}
+  <LoansLeft
+    image={businessLoan}
+    title={
+      <>
+        Business Loan
+        <br />
+        11.25% onwards
+      </>
+    }
+    description={
+      <>
+        Expand your business, manage working capital,
+        or purchase equipment with collateral-free financing.
+      </>
+    }
+  />
 
-      </section>
 
-    </div>
-      </div>
-      </div>
+  <hr/>
+
+
+  <LoansRight
+    image={goldLoan}
+    title={
+      <>
+        Gold Loan
+        <br />
+        8.80% onwards
+      </>
+    }
+    description={
+      <>
+        Get instant funds by pledging your gold ornaments
+        with quick approval and flexible repayment options.
+      </>
+    }
+  />
+  <LoanCTA/>
+</div>
+
+
+
+
   );
 }
 

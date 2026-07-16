@@ -1,0 +1,30 @@
+.loan-hero{
+
+position:relative;
+
+overflow:hidden;
+
+min-height:95vh;
+
+display:flex;
+
+justify-content:center;
+
+align-items:center;
+
+background:
+linear-gradient(
+135deg,
+#9bb1cc,
+#ffffff,
+#c3dcff
+);
+
+}
+
+.loan-image{
+    width: 360px;
+    max-width: 100%;
+    height: auto;
+    object-fit: contain;
+}
