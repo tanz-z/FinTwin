@@ -133,6 +133,14 @@ const Loans = () => {
       </>
     }
   />
+  <hr
+  className="mx-auto"
+  style={{
+    width: "70%",
+    opacity: 0.08,
+    margin: "4rem auto",
+  }}
+/>
   <LoanCTA/>
 </div>
 

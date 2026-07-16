@@ -1,7 +1,17 @@
-
+import HeroSection from "./HeroSection";
+import InvestmentCategories from "./InvestmentCategories";
+import CompareTable from "./CompareTable";
+import InvestmentCalculator from "./InvestmentCalculator";
+import GoalPlanner from "./GoalPlanner";
 function InvestmentPage(){
     return(
-        <h1>hi</h1>
+        <div className="container">
+            <HeroSection/>
+            <InvestmentCategories/>
+            <CompareTable/>
+            <InvestmentCalculator/>
+            <GoalPlanner/>
+        </div>
 
     );
 }
