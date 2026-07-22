@@ -1,4 +1,6 @@
 import { motion } from "framer-motion";
+import "./LoanToptext.css";
+
 
 function LoanCTA() {
   return (

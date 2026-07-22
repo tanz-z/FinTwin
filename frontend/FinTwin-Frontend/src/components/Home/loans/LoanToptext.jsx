@@ -3,7 +3,7 @@ import "./LoanToptext.css";
 
 function LoanToptext() {
   return (
-    <section className="loan-hero p-4 ">
+    <section className="loan-hero p-4 " style={{ position: "relative", overflow: "hidden", backgroundColor: "#333" }}>
 
       {/* Floating Blobs */}
       <div className="blob blob1"></div>

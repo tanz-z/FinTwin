@@ -756,11 +756,6 @@ img{
 }
 
 
-.loan-image:hover {
-  transform: scale(1.05);
-  transition: transform 0.3s ease;
-}
-
 h3 {
   font-weight: 700;
   margin-bottom: 1rem;
@@ -813,7 +808,7 @@ letter-spacing:4px;
 
 font-weight:600;
 
-color:#3b82f6;
+color:#cedbf0;
 
 margin-bottom:25px;
 
@@ -869,7 +864,7 @@ width:420px;
 
 height:420px;
 
-background:#8ec5ff;
+background:#384858;
 
 top:-120px;
 
@@ -913,10 +908,10 @@ background:
 
 linear-gradient(
 -45deg,
-#8bb1e2,
-#92e3b5,
-#8de8fc,
-#72fffd
+#c5d9f3,
+#c2f8d9,
+#fcfdfd,
+#b7aadd
 );
 
 background-size:400% 400%;
